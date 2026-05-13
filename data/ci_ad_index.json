@@ -1,0 +1,2540 @@
+{
+  "book hotel room online": [
+    {
+      "product_id": "TRVL-001",
+      "title": "Marriott Bonvoy Membership",
+      "brand": "Marriott",
+      "category": "travel",
+      "description": "Earn points at 8,000+ hotels worldwide. Free nights, room upgrades, and late checkout with elite status.",
+      "url": "https://www.marriott.com/loyalty.mi",
+      "price": null
+    }
+  ],
+  "luxury hotel rewards program": [
+    {
+      "product_id": "TRVL-001",
+      "title": "Marriott Bonvoy Membership",
+      "brand": "Marriott",
+      "category": "travel",
+      "description": "Earn points at 8,000+ hotels worldwide. Free nights, room upgrades, and late checkout with elite status.",
+      "url": "https://www.marriott.com/loyalty.mi",
+      "price": null
+    }
+  ],
+  "hotel loyalty points": [
+    {
+      "product_id": "TRVL-001",
+      "title": "Marriott Bonvoy Membership",
+      "brand": "Marriott",
+      "category": "travel",
+      "description": "Earn points at 8,000+ hotels worldwide. Free nights, room upgrades, and late checkout with elite status.",
+      "url": "https://www.marriott.com/loyalty.mi",
+      "price": null
+    }
+  ],
+  "best hotel deals": [
+    {
+      "product_id": "TRVL-001",
+      "title": "Marriott Bonvoy Membership",
+      "brand": "Marriott",
+      "category": "travel",
+      "description": "Earn points at 8,000+ hotels worldwide. Free nights, room upgrades, and late checkout with elite status.",
+      "url": "https://www.marriott.com/loyalty.mi",
+      "price": null
+    }
+  ],
+  "earn free hotel nights": [
+    {
+      "product_id": "TRVL-001",
+      "title": "Marriott Bonvoy Membership",
+      "brand": "Marriott",
+      "category": "travel",
+      "description": "Earn points at 8,000+ hotels worldwide. Free nights, room upgrades, and late checkout with elite status.",
+      "url": "https://www.marriott.com/loyalty.mi",
+      "price": null
+    }
+  ],
+  "unique local experiences": [
+    {
+      "product_id": "TRVL-002",
+      "title": "Airbnb Experiences",
+      "brand": "Airbnb",
+      "category": "travel",
+      "description": "Book unique activities hosted by locals. Cooking classes, guided tours, adventure sports, and cultural experiences in 200+ cities.",
+      "url": "https://www.airbnb.com/experiences",
+      "price": null
+    }
+  ],
+  "things to do abroad": [
+    {
+      "product_id": "TRVL-002",
+      "title": "Airbnb Experiences",
+      "brand": "Airbnb",
+      "category": "travel",
+      "description": "Book unique activities hosted by locals. Cooking classes, guided tours, adventure sports, and cultural experiences in 200+ cities.",
+      "url": "https://www.airbnb.com/experiences",
+      "price": null
+    }
+  ],
+  "cooking class vacation": [
+    {
+      "product_id": "TRVL-002",
+      "title": "Airbnb Experiences",
+      "brand": "Airbnb",
+      "category": "travel",
+      "description": "Book unique activities hosted by locals. Cooking classes, guided tours, adventure sports, and cultural experiences in 200+ cities.",
+      "url": "https://www.airbnb.com/experiences",
+      "price": null
+    }
+  ],
+  "local guided tours": [
+    {
+      "product_id": "TRVL-002",
+      "title": "Airbnb Experiences",
+      "brand": "Airbnb",
+      "category": "travel",
+      "description": "Book unique activities hosted by locals. Cooking classes, guided tours, adventure sports, and cultural experiences in 200+ cities.",
+      "url": "https://www.airbnb.com/experiences",
+      "price": null
+    }
+  ],
+  "cheap flights comparison": [
+    {
+      "product_id": "TRVL-003",
+      "title": "Skyscanner Flight Search",
+      "brand": "Skyscanner",
+      "category": "travel",
+      "description": "Compare cheap flights across hundreds of airlines. Price alerts, flexible date search, and Everywhere tool to find the cheapest destinations.",
+      "url": "https://www.skyscanner.com",
+      "price": null
+    }
+  ],
+  "find affordable airfare": [
+    {
+      "product_id": "TRVL-003",
+      "title": "Skyscanner Flight Search",
+      "brand": "Skyscanner",
+      "category": "travel",
+      "description": "Compare cheap flights across hundreds of airlines. Price alerts, flexible date search, and Everywhere tool to find the cheapest destinations.",
+      "url": "https://www.skyscanner.com",
+      "price": null
+    }
+  ],
+  "flight price alerts": [
+    {
+      "product_id": "TRVL-003",
+      "title": "Skyscanner Flight Search",
+      "brand": "Skyscanner",
+      "category": "travel",
+      "description": "Compare cheap flights across hundreds of airlines. Price alerts, flexible date search, and Everywhere tool to find the cheapest destinations.",
+      "url": "https://www.skyscanner.com",
+      "price": null
+    }
+  ],
+  "best time to fly": [
+    {
+      "product_id": "TRVL-003",
+      "title": "Skyscanner Flight Search",
+      "brand": "Skyscanner",
+      "category": "travel",
+      "description": "Compare cheap flights across hundreds of airlines. Price alerts, flexible date search, and Everywhere tool to find the cheapest destinations.",
+      "url": "https://www.skyscanner.com",
+      "price": null
+    }
+  ],
+  "book flights online": [
+    {
+      "product_id": "TRVL-003",
+      "title": "Skyscanner Flight Search",
+      "brand": "Skyscanner",
+      "category": "travel",
+      "description": "Compare cheap flights across hundreds of airlines. Price alerts, flexible date search, and Everywhere tool to find the cheapest destinations.",
+      "url": "https://www.skyscanner.com",
+      "price": null
+    }
+  ],
+  "travel insurance coverage": [
+    {
+      "product_id": "TRVL-004",
+      "title": "World Nomads Travel Insurance",
+      "brand": "World Nomads",
+      "category": "travel",
+      "description": "Travel insurance for adventurous travelers. Covers 200+ activities including hiking, scuba diving, and skiing. 24/7 emergency assistance worldwide.",
+      "url": "https://www.worldnomads.com",
+      "price": 49.99
+    }
+  ],
+  "adventure travel protection": [
+    {
+      "product_id": "TRVL-004",
+      "title": "World Nomads Travel Insurance",
+      "brand": "World Nomads",
+      "category": "travel",
+      "description": "Travel insurance for adventurous travelers. Covers 200+ activities including hiking, scuba diving, and skiing. 24/7 emergency assistance worldwide.",
+      "url": "https://www.worldnomads.com",
+      "price": 49.99
+    }
+  ],
+  "trip cancellation insurance": [
+    {
+      "product_id": "TRVL-004",
+      "title": "World Nomads Travel Insurance",
+      "brand": "World Nomads",
+      "category": "travel",
+      "description": "Travel insurance for adventurous travelers. Covers 200+ activities including hiking, scuba diving, and skiing. 24/7 emergency assistance worldwide.",
+      "url": "https://www.worldnomads.com",
+      "price": 49.99
+    }
+  ],
+  "emergency medical abroad": [
+    {
+      "product_id": "TRVL-004",
+      "title": "World Nomads Travel Insurance",
+      "brand": "World Nomads",
+      "category": "travel",
+      "description": "Travel insurance for adventurous travelers. Covers 200+ activities including hiking, scuba diving, and skiing. 24/7 emergency assistance worldwide.",
+      "url": "https://www.worldnomads.com",
+      "price": 49.99
+    }
+  ],
+  "travel guidebook recommendations": [
+    {
+      "product_id": "TRVL-005",
+      "title": "Lonely Planet Guidebooks",
+      "brand": "Lonely Planet",
+      "category": "travel",
+      "description": "Expert travel guides for every destination. Insider tips, curated itineraries, maps, and honest reviews from local writers.",
+      "url": "https://www.lonelyplanet.com",
+      "price": 24.99
+    }
+  ],
+  "trip planning resources": [
+    {
+      "product_id": "TRVL-005",
+      "title": "Lonely Planet Guidebooks",
+      "brand": "Lonely Planet",
+      "category": "travel",
+      "description": "Expert travel guides for every destination. Insider tips, curated itineraries, maps, and honest reviews from local writers.",
+      "url": "https://www.lonelyplanet.com",
+      "price": 24.99
+    },
+    {
+      "product_id": "TRVL-002",
+      "title": "Airbnb Experiences",
+      "brand": "Airbnb",
+      "category": "travel",
+      "description": "Book unique activities hosted by locals. Cooking classes, guided tours, adventure sports, and cultural experiences in 200+ cities.",
+      "url": "https://www.airbnb.com/experiences",
+      "price": null
+    }
+  ],
+  "destination travel tips": [
+    {
+      "product_id": "TRVL-005",
+      "title": "Lonely Planet Guidebooks",
+      "brand": "Lonely Planet",
+      "category": "travel",
+      "description": "Expert travel guides for every destination. Insider tips, curated itineraries, maps, and honest reviews from local writers.",
+      "url": "https://www.lonelyplanet.com",
+      "price": 24.99
+    },
+    {
+      "product_id": "TRVL-002",
+      "title": "Airbnb Experiences",
+      "brand": "Airbnb",
+      "category": "travel",
+      "description": "Book unique activities hosted by locals. Cooking classes, guided tours, adventure sports, and cultural experiences in 200+ cities.",
+      "url": "https://www.airbnb.com/experiences",
+      "price": null
+    }
+  ],
+  "vacation planning help": [
+    {
+      "product_id": "TRVL-001",
+      "title": "Marriott Bonvoy Membership",
+      "brand": "Marriott",
+      "category": "travel",
+      "description": "Earn points at 8,000+ hotels worldwide. Free nights, room upgrades, and late checkout with elite status.",
+      "url": "https://www.marriott.com/loyalty.mi",
+      "price": null
+    },
+    {
+      "product_id": "TRVL-002",
+      "title": "Airbnb Experiences",
+      "brand": "Airbnb",
+      "category": "travel",
+      "description": "Book unique activities hosted by locals. Cooking classes, guided tours, adventure sports, and cultural experiences in 200+ cities.",
+      "url": "https://www.airbnb.com/experiences",
+      "price": null
+    },
+    {
+      "product_id": "TRVL-003",
+      "title": "Skyscanner Flight Search",
+      "brand": "Skyscanner",
+      "category": "travel",
+      "description": "Compare cheap flights across hundreds of airlines. Price alerts, flexible date search, and Everywhere tool to find the cheapest destinations.",
+      "url": "https://www.skyscanner.com",
+      "price": null
+    },
+    {
+      "product_id": "TRVL-005",
+      "title": "Lonely Planet Guidebooks",
+      "brand": "Lonely Planet",
+      "category": "travel",
+      "description": "Expert travel guides for every destination. Insider tips, curated itineraries, maps, and honest reviews from local writers.",
+      "url": "https://www.lonelyplanet.com",
+      "price": 24.99
+    }
+  ],
+  "best noise cancelling headphones": [
+    {
+      "product_id": "ELEC-001",
+      "title": "Sony WH-1000XM5 Headphones",
+      "brand": "Sony",
+      "category": "electronics",
+      "description": "Industry-leading noise cancellation with Auto NC Optimizer. 30-hour battery life, crystal-clear hands-free calling, and multipoint connection.",
+      "url": "https://www.sony.com/headphones",
+      "price": 349.99
+    }
+  ],
+  "wireless headphones long battery": [
+    {
+      "product_id": "ELEC-001",
+      "title": "Sony WH-1000XM5 Headphones",
+      "brand": "Sony",
+      "category": "electronics",
+      "description": "Industry-leading noise cancellation with Auto NC Optimizer. 30-hour battery life, crystal-clear hands-free calling, and multipoint connection.",
+      "url": "https://www.sony.com/headphones",
+      "price": 349.99
+    }
+  ],
+  "headphones for travel": [
+    {
+      "product_id": "ELEC-001",
+      "title": "Sony WH-1000XM5 Headphones",
+      "brand": "Sony",
+      "category": "electronics",
+      "description": "Industry-leading noise cancellation with Auto NC Optimizer. 30-hour battery life, crystal-clear hands-free calling, and multipoint connection.",
+      "url": "https://www.sony.com/headphones",
+      "price": 349.99
+    }
+  ],
+  "premium audio experience": [
+    {
+      "product_id": "ELEC-001",
+      "title": "Sony WH-1000XM5 Headphones",
+      "brand": "Sony",
+      "category": "electronics",
+      "description": "Industry-leading noise cancellation with Auto NC Optimizer. 30-hour battery life, crystal-clear hands-free calling, and multipoint connection.",
+      "url": "https://www.sony.com/headphones",
+      "price": 349.99
+    },
+    {
+      "product_id": "ELEC-005",
+      "title": "Bose SoundLink Max Speaker",
+      "brand": "Bose",
+      "category": "electronics",
+      "description": "Portable Bluetooth speaker with deep bass and clear sound. 20-hour battery, IP67 waterproof, and rope handle for easy carrying.",
+      "url": "https://www.bose.com/speakers",
+      "price": 399.0
+    }
+  ],
+  "tablet for students": [
+    {
+      "product_id": "ELEC-002",
+      "title": "Apple iPad Air M2",
+      "brand": "Apple",
+      "category": "electronics",
+      "description": "11-inch Liquid Retina display powered by M2 chip. Apple Pencil Pro support, all-day battery life, and works with Magic Keyboard.",
+      "url": "https://www.apple.com/ipad-air",
+      "price": 599.0
+    }
+  ],
+  "drawing tablet with pencil": [
+    {
+      "product_id": "ELEC-002",
+      "title": "Apple iPad Air M2",
+      "brand": "Apple",
+      "category": "electronics",
+      "description": "11-inch Liquid Retina display powered by M2 chip. Apple Pencil Pro support, all-day battery life, and works with Magic Keyboard.",
+      "url": "https://www.apple.com/ipad-air",
+      "price": 599.0
+    }
+  ],
+  "portable work device": [
+    {
+      "product_id": "ELEC-002",
+      "title": "Apple iPad Air M2",
+      "brand": "Apple",
+      "category": "electronics",
+      "description": "11-inch Liquid Retina display powered by M2 chip. Apple Pencil Pro support, all-day battery life, and works with Magic Keyboard.",
+      "url": "https://www.apple.com/ipad-air",
+      "price": 599.0
+    }
+  ],
+  "best tablet for reading": [
+    {
+      "product_id": "ELEC-002",
+      "title": "Apple iPad Air M2",
+      "brand": "Apple",
+      "category": "electronics",
+      "description": "11-inch Liquid Retina display powered by M2 chip. Apple Pencil Pro support, all-day battery life, and works with Magic Keyboard.",
+      "url": "https://www.apple.com/ipad-air",
+      "price": 599.0
+    },
+    {
+      "product_id": "ELEC-004",
+      "title": "Kindle Paperwhite Signature Edition",
+      "brand": "Amazon",
+      "category": "electronics",
+      "description": "6.8-inch glare-free display with adjustable warm light. 32GB storage, wireless charging, auto-adjusting front light, and waterproof design.",
+      "url": "https://www.amazon.com/kindle-paperwhite",
+      "price": 189.99
+    }
+  ],
+  "best smartphone camera": [
+    {
+      "product_id": "ELEC-003",
+      "title": "Samsung Galaxy S24 Ultra",
+      "brand": "Samsung",
+      "category": "electronics",
+      "description": "200MP camera with AI-powered photo editing. Titanium frame, built-in S Pen, 5000mAh battery, and Galaxy AI features.",
+      "url": "https://www.samsung.com/galaxy-s24-ultra",
+      "price": 1299.99
+    }
+  ],
+  "flagship phone upgrade": [
+    {
+      "product_id": "ELEC-003",
+      "title": "Samsung Galaxy S24 Ultra",
+      "brand": "Samsung",
+      "category": "electronics",
+      "description": "200MP camera with AI-powered photo editing. Titanium frame, built-in S Pen, 5000mAh battery, and Galaxy AI features.",
+      "url": "https://www.samsung.com/galaxy-s24-ultra",
+      "price": 1299.99
+    }
+  ],
+  "samsung galaxy latest": [
+    {
+      "product_id": "ELEC-003",
+      "title": "Samsung Galaxy S24 Ultra",
+      "brand": "Samsung",
+      "category": "electronics",
+      "description": "200MP camera with AI-powered photo editing. Titanium frame, built-in S Pen, 5000mAh battery, and Galaxy AI features.",
+      "url": "https://www.samsung.com/galaxy-s24-ultra",
+      "price": 1299.99
+    }
+  ],
+  "phone with stylus pen": [
+    {
+      "product_id": "ELEC-003",
+      "title": "Samsung Galaxy S24 Ultra",
+      "brand": "Samsung",
+      "category": "electronics",
+      "description": "200MP camera with AI-powered photo editing. Titanium frame, built-in S Pen, 5000mAh battery, and Galaxy AI features.",
+      "url": "https://www.samsung.com/galaxy-s24-ultra",
+      "price": 1299.99
+    }
+  ],
+  "e-reader for book lovers": [
+    {
+      "product_id": "ELEC-004",
+      "title": "Kindle Paperwhite Signature Edition",
+      "brand": "Amazon",
+      "category": "electronics",
+      "description": "6.8-inch glare-free display with adjustable warm light. 32GB storage, wireless charging, auto-adjusting front light, and waterproof design.",
+      "url": "https://www.amazon.com/kindle-paperwhite",
+      "price": 189.99
+    }
+  ],
+  "waterproof kindle reader": [
+    {
+      "product_id": "ELEC-004",
+      "title": "Kindle Paperwhite Signature Edition",
+      "brand": "Amazon",
+      "category": "electronics",
+      "description": "6.8-inch glare-free display with adjustable warm light. 32GB storage, wireless charging, auto-adjusting front light, and waterproof design.",
+      "url": "https://www.amazon.com/kindle-paperwhite",
+      "price": 189.99
+    }
+  ],
+  "digital reading device": [
+    {
+      "product_id": "ELEC-004",
+      "title": "Kindle Paperwhite Signature Edition",
+      "brand": "Amazon",
+      "category": "electronics",
+      "description": "6.8-inch glare-free display with adjustable warm light. 32GB storage, wireless charging, auto-adjusting front light, and waterproof design.",
+      "url": "https://www.amazon.com/kindle-paperwhite",
+      "price": 189.99
+    }
+  ],
+  "gift for book lover": [
+    {
+      "product_id": "ELEC-004",
+      "title": "Kindle Paperwhite Signature Edition",
+      "brand": "Amazon",
+      "category": "electronics",
+      "description": "6.8-inch glare-free display with adjustable warm light. 32GB storage, wireless charging, auto-adjusting front light, and waterproof design.",
+      "url": "https://www.amazon.com/kindle-paperwhite",
+      "price": 189.99
+    }
+  ],
+  "portable bluetooth speaker": [
+    {
+      "product_id": "ELEC-005",
+      "title": "Bose SoundLink Max Speaker",
+      "brand": "Bose",
+      "category": "electronics",
+      "description": "Portable Bluetooth speaker with deep bass and clear sound. 20-hour battery, IP67 waterproof, and rope handle for easy carrying.",
+      "url": "https://www.bose.com/speakers",
+      "price": 399.0
+    }
+  ],
+  "waterproof outdoor speaker": [
+    {
+      "product_id": "ELEC-005",
+      "title": "Bose SoundLink Max Speaker",
+      "brand": "Bose",
+      "category": "electronics",
+      "description": "Portable Bluetooth speaker with deep bass and clear sound. 20-hour battery, IP67 waterproof, and rope handle for easy carrying.",
+      "url": "https://www.bose.com/speakers",
+      "price": 399.0
+    }
+  ],
+  "speaker for beach party": [
+    {
+      "product_id": "ELEC-005",
+      "title": "Bose SoundLink Max Speaker",
+      "brand": "Bose",
+      "category": "electronics",
+      "description": "Portable Bluetooth speaker with deep bass and clear sound. 20-hour battery, IP67 waterproof, and rope handle for easy carrying.",
+      "url": "https://www.bose.com/speakers",
+      "price": 399.0
+    }
+  ],
+  "waterproof hiking boots": [
+    {
+      "product_id": "OUTD-001",
+      "title": "Merrell Moab 3 GORE-TEX",
+      "brand": "Merrell",
+      "category": "outdoor_gear",
+      "description": "The gold standard in waterproof hikers. Durable leather, GORE-TEX membrane, and Vibram traction perfect for rainy trails.",
+      "url": "https://www.merrell.com/moab-3",
+      "price": 149.99
+    }
+  ],
+  "best hiking shoes gore-tex": [
+    {
+      "product_id": "OUTD-001",
+      "title": "Merrell Moab 3 GORE-TEX",
+      "brand": "Merrell",
+      "category": "outdoor_gear",
+      "description": "The gold standard in waterproof hikers. Durable leather, GORE-TEX membrane, and Vibram traction perfect for rainy trails.",
+      "url": "https://www.merrell.com/moab-3",
+      "price": 149.99
+    }
+  ],
+  "trail shoes for rain": [
+    {
+      "product_id": "OUTD-001",
+      "title": "Merrell Moab 3 GORE-TEX",
+      "brand": "Merrell",
+      "category": "outdoor_gear",
+      "description": "The gold standard in waterproof hikers. Durable leather, GORE-TEX membrane, and Vibram traction perfect for rainy trails.",
+      "url": "https://www.merrell.com/moab-3",
+      "price": 149.99
+    }
+  ],
+  "durable hiking footwear": [
+    {
+      "product_id": "OUTD-001",
+      "title": "Merrell Moab 3 GORE-TEX",
+      "brand": "Merrell",
+      "category": "outdoor_gear",
+      "description": "The gold standard in waterproof hikers. Durable leather, GORE-TEX membrane, and Vibram traction perfect for rainy trails.",
+      "url": "https://www.merrell.com/moab-3",
+      "price": 149.99
+    }
+  ],
+  "lightweight winter jacket": [
+    {
+      "product_id": "OUTD-002",
+      "title": "The North Face Thermoball Jacket",
+      "brand": "The North Face",
+      "category": "outdoor_gear",
+      "description": "Lightweight synthetic insulation that performs even when wet. Packable design, 700-fill equivalent warmth, and DWR finish.",
+      "url": "https://www.thenorthface.com",
+      "price": 220.0
+    }
+  ],
+  "packable insulated jacket": [
+    {
+      "product_id": "OUTD-002",
+      "title": "The North Face Thermoball Jacket",
+      "brand": "The North Face",
+      "category": "outdoor_gear",
+      "description": "Lightweight synthetic insulation that performs even when wet. Packable design, 700-fill equivalent warmth, and DWR finish.",
+      "url": "https://www.thenorthface.com",
+      "price": 220.0
+    }
+  ],
+  "cold weather outdoor gear": [
+    {
+      "product_id": "OUTD-002",
+      "title": "The North Face Thermoball Jacket",
+      "brand": "The North Face",
+      "category": "outdoor_gear",
+      "description": "Lightweight synthetic insulation that performs even when wet. Packable design, 700-fill equivalent warmth, and DWR finish.",
+      "url": "https://www.thenorthface.com",
+      "price": 220.0
+    },
+    {
+      "product_id": "FASH-005",
+      "title": "Uniqlo Heattech Ultra Warm",
+      "brand": "Uniqlo",
+      "category": "fashion",
+      "description": "Advanced heat-generating innerwear 2.25x warmer than regular Heattech. Moisture-wicking, anti-odor, and ultra-thin comfort.",
+      "url": "https://www.uniqlo.com",
+      "price": 19.9
+    }
+  ],
+  "warm jacket for hiking": [
+    {
+      "product_id": "OUTD-002",
+      "title": "The North Face Thermoball Jacket",
+      "brand": "The North Face",
+      "category": "outdoor_gear",
+      "description": "Lightweight synthetic insulation that performs even when wet. Packable design, 700-fill equivalent warmth, and DWR finish.",
+      "url": "https://www.thenorthface.com",
+      "price": 220.0
+    }
+  ],
+  "backpacking backpack large": [
+    {
+      "product_id": "OUTD-003",
+      "title": "Osprey Atmos AG 65 Backpack",
+      "brand": "Osprey",
+      "category": "outdoor_gear",
+      "description": "Anti-Gravity suspension for all-day comfort on the trail. 65L capacity, integrated rain cover, and adjustable torso length.",
+      "url": "https://www.osprey.com",
+      "price": 310.0
+    }
+  ],
+  "comfortable hiking pack": [
+    {
+      "product_id": "OUTD-003",
+      "title": "Osprey Atmos AG 65 Backpack",
+      "brand": "Osprey",
+      "category": "outdoor_gear",
+      "description": "Anti-Gravity suspension for all-day comfort on the trail. 65L capacity, integrated rain cover, and adjustable torso length.",
+      "url": "https://www.osprey.com",
+      "price": 310.0
+    }
+  ],
+  "multi-day trek gear": [
+    {
+      "product_id": "OUTD-003",
+      "title": "Osprey Atmos AG 65 Backpack",
+      "brand": "Osprey",
+      "category": "outdoor_gear",
+      "description": "Anti-Gravity suspension for all-day comfort on the trail. 65L capacity, integrated rain cover, and adjustable torso length.",
+      "url": "https://www.osprey.com",
+      "price": 310.0
+    },
+    {
+      "product_id": "OUTD-004",
+      "title": "REI Co-op Half Dome 2 Plus Tent",
+      "brand": "REI",
+      "category": "outdoor_gear",
+      "description": "Spacious 2-person backpacking tent with two doors and vestibules. Easy setup, excellent ventilation, and 3-season performance.",
+      "url": "https://www.rei.com/tents",
+      "price": 229.0
+    }
+  ],
+  "best backpack for camping": [
+    {
+      "product_id": "OUTD-003",
+      "title": "Osprey Atmos AG 65 Backpack",
+      "brand": "Osprey",
+      "category": "outdoor_gear",
+      "description": "Anti-Gravity suspension for all-day comfort on the trail. 65L capacity, integrated rain cover, and adjustable torso length.",
+      "url": "https://www.osprey.com",
+      "price": 310.0
+    }
+  ],
+  "two person camping tent": [
+    {
+      "product_id": "OUTD-004",
+      "title": "REI Co-op Half Dome 2 Plus Tent",
+      "brand": "REI",
+      "category": "outdoor_gear",
+      "description": "Spacious 2-person backpacking tent with two doors and vestibules. Easy setup, excellent ventilation, and 3-season performance.",
+      "url": "https://www.rei.com/tents",
+      "price": 229.0
+    }
+  ],
+  "lightweight backpacking tent": [
+    {
+      "product_id": "OUTD-004",
+      "title": "REI Co-op Half Dome 2 Plus Tent",
+      "brand": "REI",
+      "category": "outdoor_gear",
+      "description": "Spacious 2-person backpacking tent with two doors and vestibules. Easy setup, excellent ventilation, and 3-season performance.",
+      "url": "https://www.rei.com/tents",
+      "price": 229.0
+    }
+  ],
+  "camping gear essentials": [
+    {
+      "product_id": "OUTD-004",
+      "title": "REI Co-op Half Dome 2 Plus Tent",
+      "brand": "REI",
+      "category": "outdoor_gear",
+      "description": "Spacious 2-person backpacking tent with two doors and vestibules. Easy setup, excellent ventilation, and 3-season performance.",
+      "url": "https://www.rei.com/tents",
+      "price": 229.0
+    },
+    {
+      "product_id": "OUTD-003",
+      "title": "Osprey Atmos AG 65 Backpack",
+      "brand": "Osprey",
+      "category": "outdoor_gear",
+      "description": "Anti-Gravity suspension for all-day comfort on the trail. 65L capacity, integrated rain cover, and adjustable torso length.",
+      "url": "https://www.osprey.com",
+      "price": 310.0
+    },
+    {
+      "product_id": "OUTD-005",
+      "title": "Patagonia Black Hole Duffel 55L",
+      "brand": "Patagonia",
+      "category": "outdoor_gear",
+      "description": "Burly and weather-resistant duffel bag made from 100% recycled materials. Backpack straps, padded base, and U-shaped lid opening.",
+      "url": "https://www.patagonia.com",
+      "price": 169.0
+    }
+  ],
+  "durable travel duffel bag": [
+    {
+      "product_id": "OUTD-005",
+      "title": "Patagonia Black Hole Duffel 55L",
+      "brand": "Patagonia",
+      "category": "outdoor_gear",
+      "description": "Burly and weather-resistant duffel bag made from 100% recycled materials. Backpack straps, padded base, and U-shaped lid opening.",
+      "url": "https://www.patagonia.com",
+      "price": 169.0
+    }
+  ],
+  "recycled material luggage": [
+    {
+      "product_id": "OUTD-005",
+      "title": "Patagonia Black Hole Duffel 55L",
+      "brand": "Patagonia",
+      "category": "outdoor_gear",
+      "description": "Burly and weather-resistant duffel bag made from 100% recycled materials. Backpack straps, padded base, and U-shaped lid opening.",
+      "url": "https://www.patagonia.com",
+      "price": 169.0
+    }
+  ],
+  "adventure travel bag": [
+    {
+      "product_id": "OUTD-005",
+      "title": "Patagonia Black Hole Duffel 55L",
+      "brand": "Patagonia",
+      "category": "outdoor_gear",
+      "description": "Burly and weather-resistant duffel bag made from 100% recycled materials. Backpack straps, padded base, and U-shaped lid opening.",
+      "url": "https://www.patagonia.com",
+      "price": 169.0
+    }
+  ],
+  "weekly meal kit delivery": [
+    {
+      "product_id": "FOOD-001",
+      "title": "HelloFresh Meal Kit Delivery",
+      "brand": "HelloFresh",
+      "category": "food_beverage",
+      "description": "Pre-portioned meal kits delivered weekly. 40+ recipes to choose from, step-by-step instructions, and fresh farm-sourced ingredients.",
+      "url": "https://www.hellofresh.com",
+      "price": 9.99
+    }
+  ],
+  "easy dinner recipes home": [
+    {
+      "product_id": "FOOD-001",
+      "title": "HelloFresh Meal Kit Delivery",
+      "brand": "HelloFresh",
+      "category": "food_beverage",
+      "description": "Pre-portioned meal kits delivered weekly. 40+ recipes to choose from, step-by-step instructions, and fresh farm-sourced ingredients.",
+      "url": "https://www.hellofresh.com",
+      "price": 9.99
+    }
+  ],
+  "healthy meal planning": [
+    {
+      "product_id": "FOOD-001",
+      "title": "HelloFresh Meal Kit Delivery",
+      "brand": "HelloFresh",
+      "category": "food_beverage",
+      "description": "Pre-portioned meal kits delivered weekly. 40+ recipes to choose from, step-by-step instructions, and fresh farm-sourced ingredients.",
+      "url": "https://www.hellofresh.com",
+      "price": 9.99
+    }
+  ],
+  "cooking subscription service": [
+    {
+      "product_id": "FOOD-001",
+      "title": "HelloFresh Meal Kit Delivery",
+      "brand": "HelloFresh",
+      "category": "food_beverage",
+      "description": "Pre-portioned meal kits delivered weekly. 40+ recipes to choose from, step-by-step instructions, and fresh farm-sourced ingredients.",
+      "url": "https://www.hellofresh.com",
+      "price": 9.99
+    }
+  ],
+  "home espresso machine": [
+    {
+      "product_id": "FOOD-002",
+      "title": "Nespresso Vertuo Next Machine",
+      "brand": "Nespresso",
+      "category": "food_beverage",
+      "description": "Brew barista-quality coffee and espresso at home. Centrifusion technology, 5 cup sizes, and 30+ capsule varieties. WiFi-connected.",
+      "url": "https://www.nespresso.com",
+      "price": 179.0
+    }
+  ],
+  "best coffee maker home": [
+    {
+      "product_id": "FOOD-002",
+      "title": "Nespresso Vertuo Next Machine",
+      "brand": "Nespresso",
+      "category": "food_beverage",
+      "description": "Brew barista-quality coffee and espresso at home. Centrifusion technology, 5 cup sizes, and 30+ capsule varieties. WiFi-connected.",
+      "url": "https://www.nespresso.com",
+      "price": 179.0
+    }
+  ],
+  "barista quality coffee": [
+    {
+      "product_id": "FOOD-002",
+      "title": "Nespresso Vertuo Next Machine",
+      "brand": "Nespresso",
+      "category": "food_beverage",
+      "description": "Brew barista-quality coffee and espresso at home. Centrifusion technology, 5 cup sizes, and 30+ capsule varieties. WiFi-connected.",
+      "url": "https://www.nespresso.com",
+      "price": 179.0
+    },
+    {
+      "product_id": "FOOD-005",
+      "title": "Trade Coffee Subscription",
+      "brand": "Trade Coffee",
+      "category": "food_beverage",
+      "description": "Personalized coffee subscription from 55+ roasters. Take the quiz, get matched to your perfect beans, delivered fresh to your door.",
+      "url": "https://www.drinktrade.com",
+      "price": 15.0
+    }
+  ],
+  "morning coffee ritual": [
+    {
+      "product_id": "FOOD-002",
+      "title": "Nespresso Vertuo Next Machine",
+      "brand": "Nespresso",
+      "category": "food_beverage",
+      "description": "Brew barista-quality coffee and espresso at home. Centrifusion technology, 5 cup sizes, and 30+ capsule varieties. WiFi-connected.",
+      "url": "https://www.nespresso.com",
+      "price": 179.0
+    },
+    {
+      "product_id": "FOOD-005",
+      "title": "Trade Coffee Subscription",
+      "brand": "Trade Coffee",
+      "category": "food_beverage",
+      "description": "Personalized coffee subscription from 55+ roasters. Take the quiz, get matched to your perfect beans, delivered fresh to your door.",
+      "url": "https://www.drinktrade.com",
+      "price": 15.0
+    }
+  ],
+  "organic grocery delivery": [
+    {
+      "product_id": "FOOD-003",
+      "title": "Whole Foods Market Organic Delivery",
+      "brand": "Whole Foods",
+      "category": "food_beverage",
+      "description": "Premium organic groceries delivered to your door. Locally sourced produce, sustainable seafood, and exclusive Prime member deals.",
+      "url": "https://www.wholefoodsmarket.com",
+      "price": null
+    }
+  ],
+  "fresh produce delivered": [
+    {
+      "product_id": "FOOD-003",
+      "title": "Whole Foods Market Organic Delivery",
+      "brand": "Whole Foods",
+      "category": "food_beverage",
+      "description": "Premium organic groceries delivered to your door. Locally sourced produce, sustainable seafood, and exclusive Prime member deals.",
+      "url": "https://www.wholefoodsmarket.com",
+      "price": null
+    }
+  ],
+  "healthy grocery shopping": [
+    {
+      "product_id": "FOOD-003",
+      "title": "Whole Foods Market Organic Delivery",
+      "brand": "Whole Foods",
+      "category": "food_beverage",
+      "description": "Premium organic groceries delivered to your door. Locally sourced produce, sustainable seafood, and exclusive Prime member deals.",
+      "url": "https://www.wholefoodsmarket.com",
+      "price": null
+    }
+  ],
+  "daily vitamin supplement": [
+    {
+      "product_id": "FOOD-004",
+      "title": "Athletic Greens AG1",
+      "brand": "Athletic Greens",
+      "category": "food_beverage",
+      "description": "Daily nutritional supplement with 75 vitamins and minerals. Supports gut health, immunity, energy, and recovery in one scoop.",
+      "url": "https://www.athleticgreens.com",
+      "price": 79.0
+    }
+  ],
+  "greens powder nutrition": [
+    {
+      "product_id": "FOOD-004",
+      "title": "Athletic Greens AG1",
+      "brand": "Athletic Greens",
+      "category": "food_beverage",
+      "description": "Daily nutritional supplement with 75 vitamins and minerals. Supports gut health, immunity, energy, and recovery in one scoop.",
+      "url": "https://www.athleticgreens.com",
+      "price": 79.0
+    }
+  ],
+  "immune system boost": [
+    {
+      "product_id": "FOOD-004",
+      "title": "Athletic Greens AG1",
+      "brand": "Athletic Greens",
+      "category": "food_beverage",
+      "description": "Daily nutritional supplement with 75 vitamins and minerals. Supports gut health, immunity, energy, and recovery in one scoop.",
+      "url": "https://www.athleticgreens.com",
+      "price": 79.0
+    }
+  ],
+  "energy supplement natural": [
+    {
+      "product_id": "FOOD-004",
+      "title": "Athletic Greens AG1",
+      "brand": "Athletic Greens",
+      "category": "food_beverage",
+      "description": "Daily nutritional supplement with 75 vitamins and minerals. Supports gut health, immunity, energy, and recovery in one scoop.",
+      "url": "https://www.athleticgreens.com",
+      "price": 79.0
+    }
+  ],
+  "coffee subscription service": [
+    {
+      "product_id": "FOOD-005",
+      "title": "Trade Coffee Subscription",
+      "brand": "Trade Coffee",
+      "category": "food_beverage",
+      "description": "Personalized coffee subscription from 55+ roasters. Take the quiz, get matched to your perfect beans, delivered fresh to your door.",
+      "url": "https://www.drinktrade.com",
+      "price": 15.0
+    }
+  ],
+  "freshly roasted coffee beans": [
+    {
+      "product_id": "FOOD-005",
+      "title": "Trade Coffee Subscription",
+      "brand": "Trade Coffee",
+      "category": "food_beverage",
+      "description": "Personalized coffee subscription from 55+ roasters. Take the quiz, get matched to your perfect beans, delivered fresh to your door.",
+      "url": "https://www.drinktrade.com",
+      "price": 15.0
+    }
+  ],
+  "specialty coffee delivery": [
+    {
+      "product_id": "FOOD-005",
+      "title": "Trade Coffee Subscription",
+      "brand": "Trade Coffee",
+      "category": "food_beverage",
+      "description": "Personalized coffee subscription from 55+ roasters. Take the quiz, get matched to your perfect beans, delivered fresh to your door.",
+      "url": "https://www.drinktrade.com",
+      "price": 15.0
+    }
+  ],
+  "trendy sneakers streetwear": [
+    {
+      "product_id": "FASH-001",
+      "title": "Nike Air Max 90",
+      "brand": "Nike",
+      "category": "fashion",
+      "description": "Iconic streetwear sneaker with visible Air cushioning. Premium leather and mesh upper, Waffle outsole, and timeless design.",
+      "url": "https://www.nike.com/air-max",
+      "price": 130.0
+    }
+  ],
+  "comfortable casual shoes": [
+    {
+      "product_id": "FASH-001",
+      "title": "Nike Air Max 90",
+      "brand": "Nike",
+      "category": "fashion",
+      "description": "Iconic streetwear sneaker with visible Air cushioning. Premium leather and mesh upper, Waffle outsole, and timeless design.",
+      "url": "https://www.nike.com/air-max",
+      "price": 130.0
+    },
+    {
+      "product_id": "FASH-004",
+      "title": "Allbirds Wool Runner Shoes",
+      "brand": "Allbirds",
+      "category": "fashion",
+      "description": "World's most comfortable shoes made from merino wool. Machine washable, carbon-neutral, and designed for everyday wear.",
+      "url": "https://www.allbirds.com",
+      "price": 98.0
+    }
+  ],
+  "iconic nike shoes": [
+    {
+      "product_id": "FASH-001",
+      "title": "Nike Air Max 90",
+      "brand": "Nike",
+      "category": "fashion",
+      "description": "Iconic streetwear sneaker with visible Air cushioning. Premium leather and mesh upper, Waffle outsole, and timeless design.",
+      "url": "https://www.nike.com/air-max",
+      "price": 130.0
+    }
+  ],
+  "sneaker collection must have": [
+    {
+      "product_id": "FASH-001",
+      "title": "Nike Air Max 90",
+      "brand": "Nike",
+      "category": "fashion",
+      "description": "Iconic streetwear sneaker with visible Air cushioning. Premium leather and mesh upper, Waffle outsole, and timeless design.",
+      "url": "https://www.nike.com/air-max",
+      "price": 130.0
+    }
+  ],
+  "classic blue jeans": [
+    {
+      "product_id": "FASH-002",
+      "title": "Levi's 501 Original Fit Jeans",
+      "brand": "Levi's",
+      "category": "fashion",
+      "description": "The original blue jean since 1873. Button fly, straight leg, sits at waist. Made with Cottonized Hemp for sustainability.",
+      "url": "https://www.levi.com",
+      "price": 69.5
+    }
+  ],
+  "durable denim pants": [
+    {
+      "product_id": "FASH-002",
+      "title": "Levi's 501 Original Fit Jeans",
+      "brand": "Levi's",
+      "category": "fashion",
+      "description": "The original blue jean since 1873. Button fly, straight leg, sits at waist. Made with Cottonized Hemp for sustainability.",
+      "url": "https://www.levi.com",
+      "price": 69.5
+    }
+  ],
+  "sustainable fashion brands": [
+    {
+      "product_id": "FASH-002",
+      "title": "Levi's 501 Original Fit Jeans",
+      "brand": "Levi's",
+      "category": "fashion",
+      "description": "The original blue jean since 1873. Button fly, straight leg, sits at waist. Made with Cottonized Hemp for sustainability.",
+      "url": "https://www.levi.com",
+      "price": 69.5
+    },
+    {
+      "product_id": "FASH-004",
+      "title": "Allbirds Wool Runner Shoes",
+      "brand": "Allbirds",
+      "category": "fashion",
+      "description": "World's most comfortable shoes made from merino wool. Machine washable, carbon-neutral, and designed for everyday wear.",
+      "url": "https://www.allbirds.com",
+      "price": 98.0
+    }
+  ],
+  "polarized sunglasses uv protection": [
+    {
+      "product_id": "FASH-003",
+      "title": "Ray-Ban Wayfarer Sunglasses",
+      "brand": "Ray-Ban",
+      "category": "fashion",
+      "description": "Timeless iconic sunglasses with polarized lenses. UV protection, acetate frame, and available in 50+ color combinations.",
+      "url": "https://www.ray-ban.com",
+      "price": 163.0
+    }
+  ],
+  "designer sunglasses classic": [
+    {
+      "product_id": "FASH-003",
+      "title": "Ray-Ban Wayfarer Sunglasses",
+      "brand": "Ray-Ban",
+      "category": "fashion",
+      "description": "Timeless iconic sunglasses with polarized lenses. UV protection, acetate frame, and available in 50+ color combinations.",
+      "url": "https://www.ray-ban.com",
+      "price": 163.0
+    }
+  ],
+  "summer eyewear style": [
+    {
+      "product_id": "FASH-003",
+      "title": "Ray-Ban Wayfarer Sunglasses",
+      "brand": "Ray-Ban",
+      "category": "fashion",
+      "description": "Timeless iconic sunglasses with polarized lenses. UV protection, acetate frame, and available in 50+ color combinations.",
+      "url": "https://www.ray-ban.com",
+      "price": 163.0
+    }
+  ],
+  "eco friendly shoes": [
+    {
+      "product_id": "FASH-004",
+      "title": "Allbirds Wool Runner Shoes",
+      "brand": "Allbirds",
+      "category": "fashion",
+      "description": "World's most comfortable shoes made from merino wool. Machine washable, carbon-neutral, and designed for everyday wear.",
+      "url": "https://www.allbirds.com",
+      "price": 98.0
+    }
+  ],
+  "machine washable sneakers": [
+    {
+      "product_id": "FASH-004",
+      "title": "Allbirds Wool Runner Shoes",
+      "brand": "Allbirds",
+      "category": "fashion",
+      "description": "World's most comfortable shoes made from merino wool. Machine washable, carbon-neutral, and designed for everyday wear.",
+      "url": "https://www.allbirds.com",
+      "price": 98.0
+    }
+  ],
+  "sustainable comfortable footwear": [
+    {
+      "product_id": "FASH-004",
+      "title": "Allbirds Wool Runner Shoes",
+      "brand": "Allbirds",
+      "category": "fashion",
+      "description": "World's most comfortable shoes made from merino wool. Machine washable, carbon-neutral, and designed for everyday wear.",
+      "url": "https://www.allbirds.com",
+      "price": 98.0
+    }
+  ],
+  "winter thermal underwear": [
+    {
+      "product_id": "FASH-005",
+      "title": "Uniqlo Heattech Ultra Warm",
+      "brand": "Uniqlo",
+      "category": "fashion",
+      "description": "Advanced heat-generating innerwear 2.25x warmer than regular Heattech. Moisture-wicking, anti-odor, and ultra-thin comfort.",
+      "url": "https://www.uniqlo.com",
+      "price": 19.9
+    }
+  ],
+  "cold weather base layer": [
+    {
+      "product_id": "FASH-005",
+      "title": "Uniqlo Heattech Ultra Warm",
+      "brand": "Uniqlo",
+      "category": "fashion",
+      "description": "Advanced heat-generating innerwear 2.25x warmer than regular Heattech. Moisture-wicking, anti-odor, and ultra-thin comfort.",
+      "url": "https://www.uniqlo.com",
+      "price": 19.9
+    }
+  ],
+  "heat generating innerwear": [
+    {
+      "product_id": "FASH-005",
+      "title": "Uniqlo Heattech Ultra Warm",
+      "brand": "Uniqlo",
+      "category": "fashion",
+      "description": "Advanced heat-generating innerwear 2.25x warmer than regular Heattech. Moisture-wicking, anti-odor, and ultra-thin comfort.",
+      "url": "https://www.uniqlo.com",
+      "price": 19.9
+    }
+  ],
+  "home exercise bike": [
+    {
+      "product_id": "SPRT-001",
+      "title": "Peloton Bike+",
+      "brand": "Peloton",
+      "category": "sports",
+      "description": "Indoor cycling with live and on-demand classes. 24-inch rotating HD screen, auto-resistance, Apple GymKit integration.",
+      "url": "https://www.onepeloton.com",
+      "price": 2495.0
+    }
+  ],
+  "indoor cycling classes": [
+    {
+      "product_id": "SPRT-001",
+      "title": "Peloton Bike+",
+      "brand": "Peloton",
+      "category": "sports",
+      "description": "Indoor cycling with live and on-demand classes. 24-inch rotating HD screen, auto-resistance, Apple GymKit integration.",
+      "url": "https://www.onepeloton.com",
+      "price": 2495.0
+    }
+  ],
+  "fitness equipment home gym": [
+    {
+      "product_id": "SPRT-001",
+      "title": "Peloton Bike+",
+      "brand": "Peloton",
+      "category": "sports",
+      "description": "Indoor cycling with live and on-demand classes. 24-inch rotating HD screen, auto-resistance, Apple GymKit integration.",
+      "url": "https://www.onepeloton.com",
+      "price": 2495.0
+    },
+    {
+      "product_id": "SPRT-005",
+      "title": "TRX Home2 Suspension Trainer",
+      "brand": "TRX",
+      "category": "sports",
+      "description": "Full-body workout system using your bodyweight. 300+ exercises, anchors anywhere, includes workout poster and app access.",
+      "url": "https://www.trxtraining.com",
+      "price": 199.95
+    }
+  ],
+  "peloton workout subscription": [
+    {
+      "product_id": "SPRT-001",
+      "title": "Peloton Bike+",
+      "brand": "Peloton",
+      "category": "sports",
+      "description": "Indoor cycling with live and on-demand classes. 24-inch rotating HD screen, auto-resistance, Apple GymKit integration.",
+      "url": "https://www.onepeloton.com",
+      "price": 2495.0
+    }
+  ],
+  "gps running watch": [
+    {
+      "product_id": "SPRT-002",
+      "title": "Garmin Forerunner 265 GPS Watch",
+      "brand": "Garmin",
+      "category": "sports",
+      "description": "Advanced running watch with AMOLED display. Training readiness, race predictor, daily suggested workouts, and 13-day battery life.",
+      "url": "https://www.garmin.com",
+      "price": 449.99
+    }
+  ],
+  "fitness tracker advanced": [
+    {
+      "product_id": "SPRT-002",
+      "title": "Garmin Forerunner 265 GPS Watch",
+      "brand": "Garmin",
+      "category": "sports",
+      "description": "Advanced running watch with AMOLED display. Training readiness, race predictor, daily suggested workouts, and 13-day battery life.",
+      "url": "https://www.garmin.com",
+      "price": 449.99
+    }
+  ],
+  "marathon training watch": [
+    {
+      "product_id": "SPRT-002",
+      "title": "Garmin Forerunner 265 GPS Watch",
+      "brand": "Garmin",
+      "category": "sports",
+      "description": "Advanced running watch with AMOLED display. Training readiness, race predictor, daily suggested workouts, and 13-day battery life.",
+      "url": "https://www.garmin.com",
+      "price": 449.99
+    }
+  ],
+  "sports performance tracking": [
+    {
+      "product_id": "SPRT-002",
+      "title": "Garmin Forerunner 265 GPS Watch",
+      "brand": "Garmin",
+      "category": "sports",
+      "description": "Advanced running watch with AMOLED display. Training readiness, race predictor, daily suggested workouts, and 13-day battery life.",
+      "url": "https://www.garmin.com",
+      "price": 449.99
+    }
+  ],
+  "insulated water bottle": [
+    {
+      "product_id": "SPRT-003",
+      "title": "Yeti Rambler 36oz Water Bottle",
+      "brand": "Yeti",
+      "category": "sports",
+      "description": "Double-wall vacuum insulated stainless steel. Keeps drinks cold for 24+ hours. Dishwasher safe with chug cap. Durable and puncture-resistant.",
+      "url": "https://www.yeti.com",
+      "price": 50.0
+    }
+  ],
+  "durable outdoor bottle": [
+    {
+      "product_id": "SPRT-003",
+      "title": "Yeti Rambler 36oz Water Bottle",
+      "brand": "Yeti",
+      "category": "sports",
+      "description": "Double-wall vacuum insulated stainless steel. Keeps drinks cold for 24+ hours. Dishwasher safe with chug cap. Durable and puncture-resistant.",
+      "url": "https://www.yeti.com",
+      "price": 50.0
+    }
+  ],
+  "cold drink bottle gym": [
+    {
+      "product_id": "SPRT-003",
+      "title": "Yeti Rambler 36oz Water Bottle",
+      "brand": "Yeti",
+      "category": "sports",
+      "description": "Double-wall vacuum insulated stainless steel. Keeps drinks cold for 24+ hours. Dishwasher safe with chug cap. Durable and puncture-resistant.",
+      "url": "https://www.yeti.com",
+      "price": 50.0
+    }
+  ],
+  "yoga pants comfortable": [
+    {
+      "product_id": "SPRT-004",
+      "title": "Lululemon Align High-Rise Pant",
+      "brand": "Lululemon",
+      "category": "sports",
+      "description": "Buttery-soft Nulu fabric that feels weightless. 4-way stretch, no front seam, hidden waistband pocket. For yoga and low-impact training.",
+      "url": "https://www.lululemon.com",
+      "price": 98.0
+    }
+  ],
+  "workout leggings women": [
+    {
+      "product_id": "SPRT-004",
+      "title": "Lululemon Align High-Rise Pant",
+      "brand": "Lululemon",
+      "category": "sports",
+      "description": "Buttery-soft Nulu fabric that feels weightless. 4-way stretch, no front seam, hidden waistband pocket. For yoga and low-impact training.",
+      "url": "https://www.lululemon.com",
+      "price": 98.0
+    }
+  ],
+  "athletic wear stretchy": [
+    {
+      "product_id": "SPRT-004",
+      "title": "Lululemon Align High-Rise Pant",
+      "brand": "Lululemon",
+      "category": "sports",
+      "description": "Buttery-soft Nulu fabric that feels weightless. 4-way stretch, no front seam, hidden waistband pocket. For yoga and low-impact training.",
+      "url": "https://www.lululemon.com",
+      "price": 98.0
+    }
+  ],
+  "premium activewear brand": [
+    {
+      "product_id": "SPRT-004",
+      "title": "Lululemon Align High-Rise Pant",
+      "brand": "Lululemon",
+      "category": "sports",
+      "description": "Buttery-soft Nulu fabric that feels weightless. 4-way stretch, no front seam, hidden waistband pocket. For yoga and low-impact training.",
+      "url": "https://www.lululemon.com",
+      "price": 98.0
+    },
+    {
+      "product_id": "SPRT-001",
+      "title": "Peloton Bike+",
+      "brand": "Peloton",
+      "category": "sports",
+      "description": "Indoor cycling with live and on-demand classes. 24-inch rotating HD screen, auto-resistance, Apple GymKit integration.",
+      "url": "https://www.onepeloton.com",
+      "price": 2495.0
+    }
+  ],
+  "home bodyweight workout": [
+    {
+      "product_id": "SPRT-005",
+      "title": "TRX Home2 Suspension Trainer",
+      "brand": "TRX",
+      "category": "sports",
+      "description": "Full-body workout system using your bodyweight. 300+ exercises, anchors anywhere, includes workout poster and app access.",
+      "url": "https://www.trxtraining.com",
+      "price": 199.95
+    }
+  ],
+  "suspension training system": [
+    {
+      "product_id": "SPRT-005",
+      "title": "TRX Home2 Suspension Trainer",
+      "brand": "TRX",
+      "category": "sports",
+      "description": "Full-body workout system using your bodyweight. 300+ exercises, anchors anywhere, includes workout poster and app access.",
+      "url": "https://www.trxtraining.com",
+      "price": 199.95
+    }
+  ],
+  "portable workout equipment": [
+    {
+      "product_id": "SPRT-005",
+      "title": "TRX Home2 Suspension Trainer",
+      "brand": "TRX",
+      "category": "sports",
+      "description": "Full-body workout system using your bodyweight. 300+ exercises, anchors anywhere, includes workout poster and app access.",
+      "url": "https://www.trxtraining.com",
+      "price": 199.95
+    }
+  ],
+  "hair styling tool": [
+    {
+      "product_id": "BEAU-001",
+      "title": "Dyson Airwrap Multi-Styler",
+      "brand": "Dyson",
+      "category": "beauty",
+      "description": "Style, curl, and dry with no extreme heat damage. Coanda airflow technology, 6 attachments, and intelligent heat control.",
+      "url": "https://www.dyson.com/airwrap",
+      "price": 599.99
+    }
+  ],
+  "curling iron no damage": [
+    {
+      "product_id": "BEAU-001",
+      "title": "Dyson Airwrap Multi-Styler",
+      "brand": "Dyson",
+      "category": "beauty",
+      "description": "Style, curl, and dry with no extreme heat damage. Coanda airflow technology, 6 attachments, and intelligent heat control.",
+      "url": "https://www.dyson.com/airwrap",
+      "price": 599.99
+    }
+  ],
+  "dyson hair dryer curler": [
+    {
+      "product_id": "BEAU-001",
+      "title": "Dyson Airwrap Multi-Styler",
+      "brand": "Dyson",
+      "category": "beauty",
+      "description": "Style, curl, and dry with no extreme heat damage. Coanda airflow technology, 6 attachments, and intelligent heat control.",
+      "url": "https://www.dyson.com/airwrap",
+      "price": 599.99
+    }
+  ],
+  "professional hair styling": [
+    {
+      "product_id": "BEAU-001",
+      "title": "Dyson Airwrap Multi-Styler",
+      "brand": "Dyson",
+      "category": "beauty",
+      "description": "Style, curl, and dry with no extreme heat damage. Coanda airflow technology, 6 attachments, and intelligent heat control.",
+      "url": "https://www.dyson.com/airwrap",
+      "price": 599.99
+    }
+  ],
+  "moisturizer dry skin": [
+    {
+      "product_id": "BEAU-002",
+      "title": "CeraVe Moisturizing Cream",
+      "brand": "CeraVe",
+      "category": "beauty",
+      "description": "Dermatologist-recommended moisturizer with 3 essential ceramides. Non-comedogenic, fragrance-free, and suitable for dry to very dry skin.",
+      "url": "https://www.cerave.com",
+      "price": 18.99
+    }
+  ],
+  "dermatologist recommended cream": [
+    {
+      "product_id": "BEAU-002",
+      "title": "CeraVe Moisturizing Cream",
+      "brand": "CeraVe",
+      "category": "beauty",
+      "description": "Dermatologist-recommended moisturizer with 3 essential ceramides. Non-comedogenic, fragrance-free, and suitable for dry to very dry skin.",
+      "url": "https://www.cerave.com",
+      "price": 18.99
+    }
+  ],
+  "sensitive skin moisturizer": [
+    {
+      "product_id": "BEAU-002",
+      "title": "CeraVe Moisturizing Cream",
+      "brand": "CeraVe",
+      "category": "beauty",
+      "description": "Dermatologist-recommended moisturizer with 3 essential ceramides. Non-comedogenic, fragrance-free, and suitable for dry to very dry skin.",
+      "url": "https://www.cerave.com",
+      "price": 18.99
+    },
+    {
+      "product_id": "BEAU-003",
+      "title": "La Roche-Posay Anthelios SPF 50",
+      "brand": "La Roche-Posay",
+      "category": "beauty",
+      "description": "Ultra-light sunscreen with broad spectrum UVA/UVB protection. Non-greasy, water-resistant 80 min, suitable for sensitive skin.",
+      "url": "https://www.laroche-posay.us",
+      "price": 35.99
+    }
+  ],
+  "daily face cream": [
+    {
+      "product_id": "BEAU-002",
+      "title": "CeraVe Moisturizing Cream",
+      "brand": "CeraVe",
+      "category": "beauty",
+      "description": "Dermatologist-recommended moisturizer with 3 essential ceramides. Non-comedogenic, fragrance-free, and suitable for dry to very dry skin.",
+      "url": "https://www.cerave.com",
+      "price": 18.99
+    },
+    {
+      "product_id": "BEAU-005",
+      "title": "Drunk Elephant Protini Polypeptide Cream",
+      "brand": "Drunk Elephant",
+      "category": "beauty",
+      "description": "Protein moisturizer with signal peptides, growth factors, and amino acids. Improves firmness, tone, and texture. Clean formulation.",
+      "url": "https://www.drunkelephant.com",
+      "price": 68.0
+    }
+  ],
+  "best sunscreen face": [
+    {
+      "product_id": "BEAU-003",
+      "title": "La Roche-Posay Anthelios SPF 50",
+      "brand": "La Roche-Posay",
+      "category": "beauty",
+      "description": "Ultra-light sunscreen with broad spectrum UVA/UVB protection. Non-greasy, water-resistant 80 min, suitable for sensitive skin.",
+      "url": "https://www.laroche-posay.us",
+      "price": 35.99
+    }
+  ],
+  "spf fifty sunscreen": [
+    {
+      "product_id": "BEAU-003",
+      "title": "La Roche-Posay Anthelios SPF 50",
+      "brand": "La Roche-Posay",
+      "category": "beauty",
+      "description": "Ultra-light sunscreen with broad spectrum UVA/UVB protection. Non-greasy, water-resistant 80 min, suitable for sensitive skin.",
+      "url": "https://www.laroche-posay.us",
+      "price": 35.99
+    }
+  ],
+  "sun protection sensitive skin": [
+    {
+      "product_id": "BEAU-003",
+      "title": "La Roche-Posay Anthelios SPF 50",
+      "brand": "La Roche-Posay",
+      "category": "beauty",
+      "description": "Ultra-light sunscreen with broad spectrum UVA/UVB protection. Non-greasy, water-resistant 80 min, suitable for sensitive skin.",
+      "url": "https://www.laroche-posay.us",
+      "price": 35.99
+    }
+  ],
+  "hair repair treatment": [
+    {
+      "product_id": "BEAU-004",
+      "title": "Olaplex No. 3 Hair Perfector",
+      "brand": "Olaplex",
+      "category": "beauty",
+      "description": "Bond-building treatment that repairs damaged hair from within. Reduces breakage, strengthens strands, and restores healthy shine.",
+      "url": "https://www.olaplex.com",
+      "price": 30.0
+    }
+  ],
+  "fix damaged hair": [
+    {
+      "product_id": "BEAU-004",
+      "title": "Olaplex No. 3 Hair Perfector",
+      "brand": "Olaplex",
+      "category": "beauty",
+      "description": "Bond-building treatment that repairs damaged hair from within. Reduces breakage, strengthens strands, and restores healthy shine.",
+      "url": "https://www.olaplex.com",
+      "price": 30.0
+    }
+  ],
+  "bond building hair care": [
+    {
+      "product_id": "BEAU-004",
+      "title": "Olaplex No. 3 Hair Perfector",
+      "brand": "Olaplex",
+      "category": "beauty",
+      "description": "Bond-building treatment that repairs damaged hair from within. Reduces breakage, strengthens strands, and restores healthy shine.",
+      "url": "https://www.olaplex.com",
+      "price": 30.0
+    }
+  ],
+  "anti aging moisturizer": [
+    {
+      "product_id": "BEAU-005",
+      "title": "Drunk Elephant Protini Polypeptide Cream",
+      "brand": "Drunk Elephant",
+      "category": "beauty",
+      "description": "Protein moisturizer with signal peptides, growth factors, and amino acids. Improves firmness, tone, and texture. Clean formulation.",
+      "url": "https://www.drunkelephant.com",
+      "price": 68.0
+    }
+  ],
+  "peptide face cream": [
+    {
+      "product_id": "BEAU-005",
+      "title": "Drunk Elephant Protini Polypeptide Cream",
+      "brand": "Drunk Elephant",
+      "category": "beauty",
+      "description": "Protein moisturizer with signal peptides, growth factors, and amino acids. Improves firmness, tone, and texture. Clean formulation.",
+      "url": "https://www.drunkelephant.com",
+      "price": 68.0
+    }
+  ],
+  "luxury skincare routine": [
+    {
+      "product_id": "BEAU-005",
+      "title": "Drunk Elephant Protini Polypeptide Cream",
+      "brand": "Drunk Elephant",
+      "category": "beauty",
+      "description": "Protein moisturizer with signal peptides, growth factors, and amino acids. Improves firmness, tone, and texture. Clean formulation.",
+      "url": "https://www.drunkelephant.com",
+      "price": 68.0
+    },
+    {
+      "product_id": "BEAU-002",
+      "title": "CeraVe Moisturizing Cream",
+      "brand": "CeraVe",
+      "category": "beauty",
+      "description": "Dermatologist-recommended moisturizer with 3 essential ceramides. Non-comedogenic, fragrance-free, and suitable for dry to very dry skin.",
+      "url": "https://www.cerave.com",
+      "price": 18.99
+    }
+  ],
+  "electric vehicle affordable": [
+    {
+      "product_id": "AUTO-001",
+      "title": "Tesla Model 3",
+      "brand": "Tesla",
+      "category": "automotive",
+      "description": "Electric sedan with 358-mile range. 0-60 in 3.1 seconds, Autopilot, 15-inch touchscreen, and access to Tesla Supercharger network.",
+      "url": "https://www.tesla.com/model3",
+      "price": 38990.0
+    }
+  ],
+  "tesla model comparison": [
+    {
+      "product_id": "AUTO-001",
+      "title": "Tesla Model 3",
+      "brand": "Tesla",
+      "category": "automotive",
+      "description": "Electric sedan with 358-mile range. 0-60 in 3.1 seconds, Autopilot, 15-inch touchscreen, and access to Tesla Supercharger network.",
+      "url": "https://www.tesla.com/model3",
+      "price": 38990.0
+    }
+  ],
+  "best electric car range": [
+    {
+      "product_id": "AUTO-001",
+      "title": "Tesla Model 3",
+      "brand": "Tesla",
+      "category": "automotive",
+      "description": "Electric sedan with 358-mile range. 0-60 in 3.1 seconds, Autopilot, 15-inch touchscreen, and access to Tesla Supercharger network.",
+      "url": "https://www.tesla.com/model3",
+      "price": 38990.0
+    }
+  ],
+  "ev charging network": [
+    {
+      "product_id": "AUTO-001",
+      "title": "Tesla Model 3",
+      "brand": "Tesla",
+      "category": "automotive",
+      "description": "Electric sedan with 358-mile range. 0-60 in 3.1 seconds, Autopilot, 15-inch touchscreen, and access to Tesla Supercharger network.",
+      "url": "https://www.tesla.com/model3",
+      "price": 38990.0
+    }
+  ],
+  "all season car tires": [
+    {
+      "product_id": "AUTO-002",
+      "title": "Michelin CrossClimate2 Tires",
+      "brand": "Michelin",
+      "category": "automotive",
+      "description": "All-season tires with winter certification. V-Ramp technology for wet and dry traction. 60,000-mile limited treadwear warranty.",
+      "url": "https://www.michelin.com",
+      "price": 189.0
+    }
+  ],
+  "winter rated tire": [
+    {
+      "product_id": "AUTO-002",
+      "title": "Michelin CrossClimate2 Tires",
+      "brand": "Michelin",
+      "category": "automotive",
+      "description": "All-season tires with winter certification. V-Ramp technology for wet and dry traction. 60,000-mile limited treadwear warranty.",
+      "url": "https://www.michelin.com",
+      "price": 189.0
+    }
+  ],
+  "best tire wet traction": [
+    {
+      "product_id": "AUTO-002",
+      "title": "Michelin CrossClimate2 Tires",
+      "brand": "Michelin",
+      "category": "automotive",
+      "description": "All-season tires with winter certification. V-Ramp technology for wet and dry traction. 60,000-mile limited treadwear warranty.",
+      "url": "https://www.michelin.com",
+      "price": 189.0
+    }
+  ],
+  "buy used car online": [
+    {
+      "product_id": "AUTO-003",
+      "title": "Carvana Online Car Buying",
+      "brand": "Carvana",
+      "category": "automotive",
+      "description": "Buy used cars 100% online with 360-degree photos. 7-day return policy, free delivery, and financing options available.",
+      "url": "https://www.carvana.com",
+      "price": null
+    }
+  ],
+  "car buying no dealership": [
+    {
+      "product_id": "AUTO-003",
+      "title": "Carvana Online Car Buying",
+      "brand": "Carvana",
+      "category": "automotive",
+      "description": "Buy used cars 100% online with 360-degree photos. 7-day return policy, free delivery, and financing options available.",
+      "url": "https://www.carvana.com",
+      "price": null
+    }
+  ],
+  "reliable used cars": [
+    {
+      "product_id": "AUTO-003",
+      "title": "Carvana Online Car Buying",
+      "brand": "Carvana",
+      "category": "automotive",
+      "description": "Buy used cars 100% online with 360-degree photos. 7-day return policy, free delivery, and financing options available.",
+      "url": "https://www.carvana.com",
+      "price": null
+    }
+  ],
+  "cheap car insurance quotes": [
+    {
+      "product_id": "AUTO-004",
+      "title": "Geico Auto Insurance",
+      "brand": "Geico",
+      "category": "automotive",
+      "description": "Save 15% or more on car insurance. Easy online quotes, 24/7 claims service, roadside assistance, and multi-policy discounts.",
+      "url": "https://www.geico.com",
+      "price": null
+    }
+  ],
+  "auto insurance savings": [
+    {
+      "product_id": "AUTO-004",
+      "title": "Geico Auto Insurance",
+      "brand": "Geico",
+      "category": "automotive",
+      "description": "Save 15% or more on car insurance. Easy online quotes, 24/7 claims service, roadside assistance, and multi-policy discounts.",
+      "url": "https://www.geico.com",
+      "price": null
+    }
+  ],
+  "best car insurance rates": [
+    {
+      "product_id": "AUTO-004",
+      "title": "Geico Auto Insurance",
+      "brand": "Geico",
+      "category": "automotive",
+      "description": "Save 15% or more on car insurance. Easy online quotes, 24/7 claims service, roadside assistance, and multi-policy discounts.",
+      "url": "https://www.geico.com",
+      "price": null
+    }
+  ],
+  "premium gasoline benefits": [
+    {
+      "product_id": "AUTO-005",
+      "title": "Shell V-Power NiTRO+ Premium Gasoline",
+      "brand": "Shell",
+      "category": "automotive",
+      "description": "Premium fuel with triple-action protection. Cleans, protects, and performs. Removes up to 60% of intake valve deposits.",
+      "url": "https://www.shell.com/v-power",
+      "price": null
+    }
+  ],
+  "fuel engine protection": [
+    {
+      "product_id": "AUTO-005",
+      "title": "Shell V-Power NiTRO+ Premium Gasoline",
+      "brand": "Shell",
+      "category": "automotive",
+      "description": "Premium fuel with triple-action protection. Cleans, protects, and performs. Removes up to 60% of intake valve deposits.",
+      "url": "https://www.shell.com/v-power",
+      "price": null
+    }
+  ],
+  "gas station near me": [
+    {
+      "product_id": "AUTO-005",
+      "title": "Shell V-Power NiTRO+ Premium Gasoline",
+      "brand": "Shell",
+      "category": "automotive",
+      "description": "Premium fuel with triple-action protection. Cleans, protects, and performs. Removes up to 60% of intake valve deposits.",
+      "url": "https://www.shell.com/v-power",
+      "price": null
+    }
+  ],
+  "cordless vacuum powerful": [
+    {
+      "product_id": "HOME-001",
+      "title": "Dyson V15 Detect Vacuum",
+      "brand": "Dyson",
+      "category": "home",
+      "description": "Cordless vacuum with laser dust detection. Piezo sensor counts particles in real-time. 60-min runtime and whole-machine HEPA filtration.",
+      "url": "https://www.dyson.com/v15",
+      "price": 749.99
+    }
+  ],
+  "best vacuum for pet hair": [
+    {
+      "product_id": "HOME-001",
+      "title": "Dyson V15 Detect Vacuum",
+      "brand": "Dyson",
+      "category": "home",
+      "description": "Cordless vacuum with laser dust detection. Piezo sensor counts particles in real-time. 60-min runtime and whole-machine HEPA filtration.",
+      "url": "https://www.dyson.com/v15",
+      "price": 749.99
+    },
+    {
+      "product_id": "HOME-004",
+      "title": "iRobot Roomba j9+ Robot Vacuum",
+      "brand": "iRobot",
+      "category": "home",
+      "description": "Self-emptying robot vacuum with PrecisionVision Navigation. Identifies and avoids obstacles, cleans room-by-room, and empties itself for 60 days.",
+      "url": "https://www.irobot.com",
+      "price": 799.99
+    }
+  ],
+  "smart cleaning appliance": [
+    {
+      "product_id": "HOME-001",
+      "title": "Dyson V15 Detect Vacuum",
+      "brand": "Dyson",
+      "category": "home",
+      "description": "Cordless vacuum with laser dust detection. Piezo sensor counts particles in real-time. 60-min runtime and whole-machine HEPA filtration.",
+      "url": "https://www.dyson.com/v15",
+      "price": 749.99
+    },
+    {
+      "product_id": "HOME-004",
+      "title": "iRobot Roomba j9+ Robot Vacuum",
+      "brand": "iRobot",
+      "category": "home",
+      "description": "Self-emptying robot vacuum with PrecisionVision Navigation. Identifies and avoids obstacles, cleans room-by-room, and empties itself for 60 days.",
+      "url": "https://www.irobot.com",
+      "price": 799.99
+    }
+  ],
+  "best mattress for back": [
+    {
+      "product_id": "HOME-002",
+      "title": "Casper Original Mattress",
+      "brand": "Casper",
+      "category": "home",
+      "description": "Award-winning foam mattress with AirScape perforated breathable top layer. Zoned support for spinal alignment. 100-night trial.",
+      "url": "https://www.casper.com",
+      "price": 1095.0
+    }
+  ],
+  "foam mattress free trial": [
+    {
+      "product_id": "HOME-002",
+      "title": "Casper Original Mattress",
+      "brand": "Casper",
+      "category": "home",
+      "description": "Award-winning foam mattress with AirScape perforated breathable top layer. Zoned support for spinal alignment. 100-night trial.",
+      "url": "https://www.casper.com",
+      "price": 1095.0
+    }
+  ],
+  "better sleep mattress": [
+    {
+      "product_id": "HOME-002",
+      "title": "Casper Original Mattress",
+      "brand": "Casper",
+      "category": "home",
+      "description": "Award-winning foam mattress with AirScape perforated breathable top layer. Zoned support for spinal alignment. 100-night trial.",
+      "url": "https://www.casper.com",
+      "price": 1095.0
+    }
+  ],
+  "smart home lighting setup": [
+    {
+      "product_id": "HOME-003",
+      "title": "Philips Hue Smart Lighting Starter Kit",
+      "brand": "Philips Hue",
+      "category": "home",
+      "description": "16 million colors of smart LED lighting. Voice control with Alexa and Google. Set schedules, scenes, and automations via app.",
+      "url": "https://www.philips-hue.com",
+      "price": 129.99
+    }
+  ],
+  "color changing led bulbs": [
+    {
+      "product_id": "HOME-003",
+      "title": "Philips Hue Smart Lighting Starter Kit",
+      "brand": "Philips Hue",
+      "category": "home",
+      "description": "16 million colors of smart LED lighting. Voice control with Alexa and Google. Set schedules, scenes, and automations via app.",
+      "url": "https://www.philips-hue.com",
+      "price": 129.99
+    }
+  ],
+  "voice controlled lights": [
+    {
+      "product_id": "HOME-003",
+      "title": "Philips Hue Smart Lighting Starter Kit",
+      "brand": "Philips Hue",
+      "category": "home",
+      "description": "16 million colors of smart LED lighting. Voice control with Alexa and Google. Set schedules, scenes, and automations via app.",
+      "url": "https://www.philips-hue.com",
+      "price": 129.99
+    }
+  ],
+  "home automation devices": [
+    {
+      "product_id": "HOME-003",
+      "title": "Philips Hue Smart Lighting Starter Kit",
+      "brand": "Philips Hue",
+      "category": "home",
+      "description": "16 million colors of smart LED lighting. Voice control with Alexa and Google. Set schedules, scenes, and automations via app.",
+      "url": "https://www.philips-hue.com",
+      "price": 129.99
+    },
+    {
+      "product_id": "HOME-004",
+      "title": "iRobot Roomba j9+ Robot Vacuum",
+      "brand": "iRobot",
+      "category": "home",
+      "description": "Self-emptying robot vacuum with PrecisionVision Navigation. Identifies and avoids obstacles, cleans room-by-room, and empties itself for 60 days.",
+      "url": "https://www.irobot.com",
+      "price": 799.99
+    }
+  ],
+  "robot vacuum self emptying": [
+    {
+      "product_id": "HOME-004",
+      "title": "iRobot Roomba j9+ Robot Vacuum",
+      "brand": "iRobot",
+      "category": "home",
+      "description": "Self-emptying robot vacuum with PrecisionVision Navigation. Identifies and avoids obstacles, cleans room-by-room, and empties itself for 60 days.",
+      "url": "https://www.irobot.com",
+      "price": 799.99
+    }
+  ],
+  "automatic floor cleaning": [
+    {
+      "product_id": "HOME-004",
+      "title": "iRobot Roomba j9+ Robot Vacuum",
+      "brand": "iRobot",
+      "category": "home",
+      "description": "Self-emptying robot vacuum with PrecisionVision Navigation. Identifies and avoids obstacles, cleans room-by-room, and empties itself for 60 days.",
+      "url": "https://www.irobot.com",
+      "price": 799.99
+    }
+  ],
+  "hands free home cleaning": [
+    {
+      "product_id": "HOME-004",
+      "title": "iRobot Roomba j9+ Robot Vacuum",
+      "brand": "iRobot",
+      "category": "home",
+      "description": "Self-emptying robot vacuum with PrecisionVision Navigation. Identifies and avoids obstacles, cleans room-by-room, and empties itself for 60 days.",
+      "url": "https://www.irobot.com",
+      "price": 799.99
+    }
+  ],
+  "professional blender smoothie": [
+    {
+      "product_id": "HOME-005",
+      "title": "Vitamix Ascent A3500 Blender",
+      "brand": "Vitamix",
+      "category": "home",
+      "description": "Professional-grade blending with 5 program settings. Touchscreen controls, self-detecting containers, built-in wireless connectivity.",
+      "url": "https://www.vitamix.com",
+      "price": 649.95
+    }
+  ],
+  "high powered kitchen blender": [
+    {
+      "product_id": "HOME-005",
+      "title": "Vitamix Ascent A3500 Blender",
+      "brand": "Vitamix",
+      "category": "home",
+      "description": "Professional-grade blending with 5 program settings. Touchscreen controls, self-detecting containers, built-in wireless connectivity.",
+      "url": "https://www.vitamix.com",
+      "price": 649.95
+    }
+  ],
+  "healthy smoothie recipes": [
+    {
+      "product_id": "HOME-005",
+      "title": "Vitamix Ascent A3500 Blender",
+      "brand": "Vitamix",
+      "category": "home",
+      "description": "Professional-grade blending with 5 program settings. Touchscreen controls, self-detecting containers, built-in wireless connectivity.",
+      "url": "https://www.vitamix.com",
+      "price": 649.95
+    },
+    {
+      "product_id": "FOOD-004",
+      "title": "Athletic Greens AG1",
+      "brand": "Athletic Greens",
+      "category": "food_beverage",
+      "description": "Daily nutritional supplement with 75 vitamins and minerals. Supports gut health, immunity, energy, and recovery in one scoop.",
+      "url": "https://www.athleticgreens.com",
+      "price": 79.0
+    }
+  ],
+  "commission free stock trading": [
+    {
+      "product_id": "FINC-001",
+      "title": "Robinhood Investing App",
+      "brand": "Robinhood",
+      "category": "finance",
+      "description": "Commission-free stock, ETF, options, and crypto trading. Fractional shares starting at $1, real-time market data, and instant deposits.",
+      "url": "https://www.robinhood.com",
+      "price": null
+    }
+  ],
+  "beginner investing app": [
+    {
+      "product_id": "FINC-001",
+      "title": "Robinhood Investing App",
+      "brand": "Robinhood",
+      "category": "finance",
+      "description": "Commission-free stock, ETF, options, and crypto trading. Fractional shares starting at $1, real-time market data, and instant deposits.",
+      "url": "https://www.robinhood.com",
+      "price": null
+    }
+  ],
+  "buy crypto bitcoin": [
+    {
+      "product_id": "FINC-001",
+      "title": "Robinhood Investing App",
+      "brand": "Robinhood",
+      "category": "finance",
+      "description": "Commission-free stock, ETF, options, and crypto trading. Fractional shares starting at $1, real-time market data, and instant deposits.",
+      "url": "https://www.robinhood.com",
+      "price": null
+    }
+  ],
+  "fractional share investing": [
+    {
+      "product_id": "FINC-001",
+      "title": "Robinhood Investing App",
+      "brand": "Robinhood",
+      "category": "finance",
+      "description": "Commission-free stock, ETF, options, and crypto trading. Fractional shares starting at $1, real-time market data, and instant deposits.",
+      "url": "https://www.robinhood.com",
+      "price": null
+    }
+  ],
+  "automated portfolio management": [
+    {
+      "product_id": "FINC-002",
+      "title": "Wealthfront Automated Investing",
+      "brand": "Wealthfront",
+      "category": "finance",
+      "description": "Automated portfolio management with tax-loss harvesting. 4.00% APY cash account, financial planning tools, and low 0.25% annual fee.",
+      "url": "https://www.wealthfront.com",
+      "price": null
+    }
+  ],
+  "robo advisor investing": [
+    {
+      "product_id": "FINC-002",
+      "title": "Wealthfront Automated Investing",
+      "brand": "Wealthfront",
+      "category": "finance",
+      "description": "Automated portfolio management with tax-loss harvesting. 4.00% APY cash account, financial planning tools, and low 0.25% annual fee.",
+      "url": "https://www.wealthfront.com",
+      "price": null
+    }
+  ],
+  "high yield savings account": [
+    {
+      "product_id": "FINC-002",
+      "title": "Wealthfront Automated Investing",
+      "brand": "Wealthfront",
+      "category": "finance",
+      "description": "Automated portfolio management with tax-loss harvesting. 4.00% APY cash account, financial planning tools, and low 0.25% annual fee.",
+      "url": "https://www.wealthfront.com",
+      "price": null
+    }
+  ],
+  "passive income investing": [
+    {
+      "product_id": "FINC-002",
+      "title": "Wealthfront Automated Investing",
+      "brand": "Wealthfront",
+      "category": "finance",
+      "description": "Automated portfolio management with tax-loss harvesting. 4.00% APY cash account, financial planning tools, and low 0.25% annual fee.",
+      "url": "https://www.wealthfront.com",
+      "price": null
+    },
+    {
+      "product_id": "FINC-001",
+      "title": "Robinhood Investing App",
+      "brand": "Robinhood",
+      "category": "finance",
+      "description": "Commission-free stock, ETF, options, and crypto trading. Fractional shares starting at $1, real-time market data, and instant deposits.",
+      "url": "https://www.robinhood.com",
+      "price": null
+    }
+  ],
+  "compare credit cards": [
+    {
+      "product_id": "FINC-003",
+      "title": "NerdWallet Financial Comparison",
+      "brand": "NerdWallet",
+      "category": "finance",
+      "description": "Compare credit cards, loans, insurance, and bank accounts. Expert reviews, personalized recommendations, and free credit score monitoring.",
+      "url": "https://www.nerdwallet.com",
+      "price": null
+    }
+  ],
+  "best personal loan rates": [
+    {
+      "product_id": "FINC-003",
+      "title": "NerdWallet Financial Comparison",
+      "brand": "NerdWallet",
+      "category": "finance",
+      "description": "Compare credit cards, loans, insurance, and bank accounts. Expert reviews, personalized recommendations, and free credit score monitoring.",
+      "url": "https://www.nerdwallet.com",
+      "price": null
+    },
+    {
+      "product_id": "FINC-005",
+      "title": "SoFi Personal Loans",
+      "brand": "SoFi",
+      "category": "finance",
+      "description": "Personal loans from $5K-$100K with no fees. Fixed rates, unemployment protection, and member benefits including career coaching.",
+      "url": "https://www.sofi.com",
+      "price": null
+    }
+  ],
+  "financial product comparison": [
+    {
+      "product_id": "FINC-003",
+      "title": "NerdWallet Financial Comparison",
+      "brand": "NerdWallet",
+      "category": "finance",
+      "description": "Compare credit cards, loans, insurance, and bank accounts. Expert reviews, personalized recommendations, and free credit score monitoring.",
+      "url": "https://www.nerdwallet.com",
+      "price": null
+    }
+  ],
+  "free credit score check": [
+    {
+      "product_id": "FINC-003",
+      "title": "NerdWallet Financial Comparison",
+      "brand": "NerdWallet",
+      "category": "finance",
+      "description": "Compare credit cards, loans, insurance, and bank accounts. Expert reviews, personalized recommendations, and free credit score monitoring.",
+      "url": "https://www.nerdwallet.com",
+      "price": null
+    },
+    {
+      "product_id": "FINC-004",
+      "title": "Mint by Intuit Budget Tracker",
+      "brand": "Intuit",
+      "category": "finance",
+      "description": "Free budgeting app that tracks spending, bills, and credit score. Automatic categorization, custom budgets, and financial goal setting.",
+      "url": "https://www.mint.com",
+      "price": null
+    }
+  ],
+  "budget tracking app": [
+    {
+      "product_id": "FINC-004",
+      "title": "Mint by Intuit Budget Tracker",
+      "brand": "Intuit",
+      "category": "finance",
+      "description": "Free budgeting app that tracks spending, bills, and credit score. Automatic categorization, custom budgets, and financial goal setting.",
+      "url": "https://www.mint.com",
+      "price": null
+    }
+  ],
+  "personal finance management": [
+    {
+      "product_id": "FINC-004",
+      "title": "Mint by Intuit Budget Tracker",
+      "brand": "Intuit",
+      "category": "finance",
+      "description": "Free budgeting app that tracks spending, bills, and credit score. Automatic categorization, custom budgets, and financial goal setting.",
+      "url": "https://www.mint.com",
+      "price": null
+    }
+  ],
+  "expense tracking automatic": [
+    {
+      "product_id": "FINC-004",
+      "title": "Mint by Intuit Budget Tracker",
+      "brand": "Intuit",
+      "category": "finance",
+      "description": "Free budgeting app that tracks spending, bills, and credit score. Automatic categorization, custom budgets, and financial goal setting.",
+      "url": "https://www.mint.com",
+      "price": null
+    }
+  ],
+  "money saving tips": [
+    {
+      "product_id": "FINC-004",
+      "title": "Mint by Intuit Budget Tracker",
+      "brand": "Intuit",
+      "category": "finance",
+      "description": "Free budgeting app that tracks spending, bills, and credit score. Automatic categorization, custom budgets, and financial goal setting.",
+      "url": "https://www.mint.com",
+      "price": null
+    },
+    {
+      "product_id": "FINC-003",
+      "title": "NerdWallet Financial Comparison",
+      "brand": "NerdWallet",
+      "category": "finance",
+      "description": "Compare credit cards, loans, insurance, and bank accounts. Expert reviews, personalized recommendations, and free credit score monitoring.",
+      "url": "https://www.nerdwallet.com",
+      "price": null
+    }
+  ],
+  "personal loan low rate": [
+    {
+      "product_id": "FINC-005",
+      "title": "SoFi Personal Loans",
+      "brand": "SoFi",
+      "category": "finance",
+      "description": "Personal loans from $5K-$100K with no fees. Fixed rates, unemployment protection, and member benefits including career coaching.",
+      "url": "https://www.sofi.com",
+      "price": null
+    }
+  ],
+  "debt consolidation loan": [
+    {
+      "product_id": "FINC-005",
+      "title": "SoFi Personal Loans",
+      "brand": "SoFi",
+      "category": "finance",
+      "description": "Personal loans from $5K-$100K with no fees. Fixed rates, unemployment protection, and member benefits including career coaching.",
+      "url": "https://www.sofi.com",
+      "price": null
+    }
+  ],
+  "borrow money online fast": [
+    {
+      "product_id": "FINC-005",
+      "title": "SoFi Personal Loans",
+      "brand": "SoFi",
+      "category": "finance",
+      "description": "Personal loans from $5K-$100K with no fees. Fixed rates, unemployment protection, and member benefits including career coaching.",
+      "url": "https://www.sofi.com",
+      "price": null
+    }
+  ],
+  "fathers day gift ideas": [
+    {
+      "product_id": "OUTD-001",
+      "title": "Merrell Moab 3 GORE-TEX",
+      "brand": "Merrell",
+      "category": "outdoor_gear",
+      "description": "The gold standard in waterproof hikers. Durable leather, GORE-TEX membrane, and Vibram traction perfect for rainy trails.",
+      "url": "https://www.merrell.com/moab-3",
+      "price": 149.99
+    },
+    {
+      "product_id": "ELEC-001",
+      "title": "Sony WH-1000XM5 Headphones",
+      "brand": "Sony",
+      "category": "electronics",
+      "description": "Industry-leading noise cancellation with Auto NC Optimizer. 30-hour battery life, crystal-clear hands-free calling, and multipoint connection.",
+      "url": "https://www.sony.com/headphones",
+      "price": 349.99
+    },
+    {
+      "product_id": "SPRT-002",
+      "title": "Garmin Forerunner 265 GPS Watch",
+      "brand": "Garmin",
+      "category": "sports",
+      "description": "Advanced running watch with AMOLED display. Training readiness, race predictor, daily suggested workouts, and 13-day battery life.",
+      "url": "https://www.garmin.com",
+      "price": 449.99
+    },
+    {
+      "product_id": "SPRT-003",
+      "title": "Yeti Rambler 36oz Water Bottle",
+      "brand": "Yeti",
+      "category": "sports",
+      "description": "Double-wall vacuum insulated stainless steel. Keeps drinks cold for 24+ hours. Dishwasher safe with chug cap. Durable and puncture-resistant.",
+      "url": "https://www.yeti.com",
+      "price": 50.0
+    }
+  ],
+  "mothers day gift ideas": [
+    {
+      "product_id": "BEAU-001",
+      "title": "Dyson Airwrap Multi-Styler",
+      "brand": "Dyson",
+      "category": "beauty",
+      "description": "Style, curl, and dry with no extreme heat damage. Coanda airflow technology, 6 attachments, and intelligent heat control.",
+      "url": "https://www.dyson.com/airwrap",
+      "price": 599.99
+    },
+    {
+      "product_id": "BEAU-005",
+      "title": "Drunk Elephant Protini Polypeptide Cream",
+      "brand": "Drunk Elephant",
+      "category": "beauty",
+      "description": "Protein moisturizer with signal peptides, growth factors, and amino acids. Improves firmness, tone, and texture. Clean formulation.",
+      "url": "https://www.drunkelephant.com",
+      "price": 68.0
+    },
+    {
+      "product_id": "FOOD-001",
+      "title": "HelloFresh Meal Kit Delivery",
+      "brand": "HelloFresh",
+      "category": "food_beverage",
+      "description": "Pre-portioned meal kits delivered weekly. 40+ recipes to choose from, step-by-step instructions, and fresh farm-sourced ingredients.",
+      "url": "https://www.hellofresh.com",
+      "price": 9.99
+    }
+  ],
+  "christmas gift tech lover": [
+    {
+      "product_id": "ELEC-001",
+      "title": "Sony WH-1000XM5 Headphones",
+      "brand": "Sony",
+      "category": "electronics",
+      "description": "Industry-leading noise cancellation with Auto NC Optimizer. 30-hour battery life, crystal-clear hands-free calling, and multipoint connection.",
+      "url": "https://www.sony.com/headphones",
+      "price": 349.99
+    },
+    {
+      "product_id": "ELEC-002",
+      "title": "Apple iPad Air M2",
+      "brand": "Apple",
+      "category": "electronics",
+      "description": "11-inch Liquid Retina display powered by M2 chip. Apple Pencil Pro support, all-day battery life, and works with Magic Keyboard.",
+      "url": "https://www.apple.com/ipad-air",
+      "price": 599.0
+    },
+    {
+      "product_id": "ELEC-003",
+      "title": "Samsung Galaxy S24 Ultra",
+      "brand": "Samsung",
+      "category": "electronics",
+      "description": "200MP camera with AI-powered photo editing. Titanium frame, built-in S Pen, 5000mAh battery, and Galaxy AI features.",
+      "url": "https://www.samsung.com/galaxy-s24-ultra",
+      "price": 1299.99
+    },
+    {
+      "product_id": "HOME-003",
+      "title": "Philips Hue Smart Lighting Starter Kit",
+      "brand": "Philips Hue",
+      "category": "home",
+      "description": "16 million colors of smart LED lighting. Voice control with Alexa and Google. Set schedules, scenes, and automations via app.",
+      "url": "https://www.philips-hue.com",
+      "price": 129.99
+    }
+  ],
+  "birthday gift for runner": [
+    {
+      "product_id": "SPRT-002",
+      "title": "Garmin Forerunner 265 GPS Watch",
+      "brand": "Garmin",
+      "category": "sports",
+      "description": "Advanced running watch with AMOLED display. Training readiness, race predictor, daily suggested workouts, and 13-day battery life.",
+      "url": "https://www.garmin.com",
+      "price": 449.99
+    },
+    {
+      "product_id": "SPRT-003",
+      "title": "Yeti Rambler 36oz Water Bottle",
+      "brand": "Yeti",
+      "category": "sports",
+      "description": "Double-wall vacuum insulated stainless steel. Keeps drinks cold for 24+ hours. Dishwasher safe with chug cap. Durable and puncture-resistant.",
+      "url": "https://www.yeti.com",
+      "price": 50.0
+    },
+    {
+      "product_id": "FASH-001",
+      "title": "Nike Air Max 90",
+      "brand": "Nike",
+      "category": "fashion",
+      "description": "Iconic streetwear sneaker with visible Air cushioning. Premium leather and mesh upper, Waffle outsole, and timeless design.",
+      "url": "https://www.nike.com/air-max",
+      "price": 130.0
+    }
+  ],
+  "valentines day gift": [
+    {
+      "product_id": "BEAU-001",
+      "title": "Dyson Airwrap Multi-Styler",
+      "brand": "Dyson",
+      "category": "beauty",
+      "description": "Style, curl, and dry with no extreme heat damage. Coanda airflow technology, 6 attachments, and intelligent heat control.",
+      "url": "https://www.dyson.com/airwrap",
+      "price": 599.99
+    },
+    {
+      "product_id": "BEAU-005",
+      "title": "Drunk Elephant Protini Polypeptide Cream",
+      "brand": "Drunk Elephant",
+      "category": "beauty",
+      "description": "Protein moisturizer with signal peptides, growth factors, and amino acids. Improves firmness, tone, and texture. Clean formulation.",
+      "url": "https://www.drunkelephant.com",
+      "price": 68.0
+    },
+    {
+      "product_id": "FOOD-002",
+      "title": "Nespresso Vertuo Next Machine",
+      "brand": "Nespresso",
+      "category": "food_beverage",
+      "description": "Brew barista-quality coffee and espresso at home. Centrifusion technology, 5 cup sizes, and 30+ capsule varieties. WiFi-connected.",
+      "url": "https://www.nespresso.com",
+      "price": 179.0
+    }
+  ],
+  "graduation gift ideas": [
+    {
+      "product_id": "ELEC-002",
+      "title": "Apple iPad Air M2",
+      "brand": "Apple",
+      "category": "electronics",
+      "description": "11-inch Liquid Retina display powered by M2 chip. Apple Pencil Pro support, all-day battery life, and works with Magic Keyboard.",
+      "url": "https://www.apple.com/ipad-air",
+      "price": 599.0
+    },
+    {
+      "product_id": "ELEC-004",
+      "title": "Kindle Paperwhite Signature Edition",
+      "brand": "Amazon",
+      "category": "electronics",
+      "description": "6.8-inch glare-free display with adjustable warm light. 32GB storage, wireless charging, auto-adjusting front light, and waterproof design.",
+      "url": "https://www.amazon.com/kindle-paperwhite",
+      "price": 189.99
+    },
+    {
+      "product_id": "FINC-001",
+      "title": "Robinhood Investing App",
+      "brand": "Robinhood",
+      "category": "finance",
+      "description": "Commission-free stock, ETF, options, and crypto trading. Fractional shares starting at $1, real-time market data, and instant deposits.",
+      "url": "https://www.robinhood.com",
+      "price": null
+    }
+  ],
+  "housewarming gift ideas": [
+    {
+      "product_id": "HOME-002",
+      "title": "Casper Original Mattress",
+      "brand": "Casper",
+      "category": "home",
+      "description": "Award-winning foam mattress with AirScape perforated breathable top layer. Zoned support for spinal alignment. 100-night trial.",
+      "url": "https://www.casper.com",
+      "price": 1095.0
+    },
+    {
+      "product_id": "HOME-003",
+      "title": "Philips Hue Smart Lighting Starter Kit",
+      "brand": "Philips Hue",
+      "category": "home",
+      "description": "16 million colors of smart LED lighting. Voice control with Alexa and Google. Set schedules, scenes, and automations via app.",
+      "url": "https://www.philips-hue.com",
+      "price": 129.99
+    },
+    {
+      "product_id": "HOME-005",
+      "title": "Vitamix Ascent A3500 Blender",
+      "brand": "Vitamix",
+      "category": "home",
+      "description": "Professional-grade blending with 5 program settings. Touchscreen controls, self-detecting containers, built-in wireless connectivity.",
+      "url": "https://www.vitamix.com",
+      "price": 649.95
+    },
+    {
+      "product_id": "FOOD-002",
+      "title": "Nespresso Vertuo Next Machine",
+      "brand": "Nespresso",
+      "category": "food_beverage",
+      "description": "Brew barista-quality coffee and espresso at home. Centrifusion technology, 5 cup sizes, and 30+ capsule varieties. WiFi-connected.",
+      "url": "https://www.nespresso.com",
+      "price": 179.0
+    }
+  ],
+  "gift for outdoor enthusiast": [
+    {
+      "product_id": "OUTD-001",
+      "title": "Merrell Moab 3 GORE-TEX",
+      "brand": "Merrell",
+      "category": "outdoor_gear",
+      "description": "The gold standard in waterproof hikers. Durable leather, GORE-TEX membrane, and Vibram traction perfect for rainy trails.",
+      "url": "https://www.merrell.com/moab-3",
+      "price": 149.99
+    },
+    {
+      "product_id": "OUTD-003",
+      "title": "Osprey Atmos AG 65 Backpack",
+      "brand": "Osprey",
+      "category": "outdoor_gear",
+      "description": "Anti-Gravity suspension for all-day comfort on the trail. 65L capacity, integrated rain cover, and adjustable torso length.",
+      "url": "https://www.osprey.com",
+      "price": 310.0
+    },
+    {
+      "product_id": "OUTD-005",
+      "title": "Patagonia Black Hole Duffel 55L",
+      "brand": "Patagonia",
+      "category": "outdoor_gear",
+      "description": "Burly and weather-resistant duffel bag made from 100% recycled materials. Backpack straps, padded base, and U-shaped lid opening.",
+      "url": "https://www.patagonia.com",
+      "price": 169.0
+    },
+    {
+      "product_id": "SPRT-003",
+      "title": "Yeti Rambler 36oz Water Bottle",
+      "brand": "Yeti",
+      "category": "sports",
+      "description": "Double-wall vacuum insulated stainless steel. Keeps drinks cold for 24+ hours. Dishwasher safe with chug cap. Durable and puncture-resistant.",
+      "url": "https://www.yeti.com",
+      "price": 50.0
+    }
+  ],
+  "anniversary gift for wife": [
+    {
+      "product_id": "BEAU-001",
+      "title": "Dyson Airwrap Multi-Styler",
+      "brand": "Dyson",
+      "category": "beauty",
+      "description": "Style, curl, and dry with no extreme heat damage. Coanda airflow technology, 6 attachments, and intelligent heat control.",
+      "url": "https://www.dyson.com/airwrap",
+      "price": 599.99
+    },
+    {
+      "product_id": "FASH-003",
+      "title": "Ray-Ban Wayfarer Sunglasses",
+      "brand": "Ray-Ban",
+      "category": "fashion",
+      "description": "Timeless iconic sunglasses with polarized lenses. UV protection, acetate frame, and available in 50+ color combinations.",
+      "url": "https://www.ray-ban.com",
+      "price": 163.0
+    },
+    {
+      "product_id": "BEAU-005",
+      "title": "Drunk Elephant Protini Polypeptide Cream",
+      "brand": "Drunk Elephant",
+      "category": "beauty",
+      "description": "Protein moisturizer with signal peptides, growth factors, and amino acids. Improves firmness, tone, and texture. Clean formulation.",
+      "url": "https://www.drunkelephant.com",
+      "price": 68.0
+    }
+  ],
+  "gift for coffee lover": [
+    {
+      "product_id": "FOOD-002",
+      "title": "Nespresso Vertuo Next Machine",
+      "brand": "Nespresso",
+      "category": "food_beverage",
+      "description": "Brew barista-quality coffee and espresso at home. Centrifusion technology, 5 cup sizes, and 30+ capsule varieties. WiFi-connected.",
+      "url": "https://www.nespresso.com",
+      "price": 179.0
+    },
+    {
+      "product_id": "FOOD-005",
+      "title": "Trade Coffee Subscription",
+      "brand": "Trade Coffee",
+      "category": "food_beverage",
+      "description": "Personalized coffee subscription from 55+ roasters. Take the quiz, get matched to your perfect beans, delivered fresh to your door.",
+      "url": "https://www.drinktrade.com",
+      "price": 15.0
+    }
+  ]
+}

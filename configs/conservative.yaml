@@ -1,0 +1,13 @@
+# Conservative decoder configuration
+# Narrower beams + looser truncation = faster but may miss relevant CIs
+
+beam_width: 5
+top_n: 5
+max_length: 7
+
+temperature: 0.9           # Flatter distribution (more exploratory)
+truncation_threshold: 0.001 # Keep almost everything above noise
+
+length_penalty: 1.0
+
+model_name: "Qwen/Qwen2.5-0.5B-Instruct"

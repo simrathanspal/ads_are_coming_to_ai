@@ -1,0 +1,342 @@
+{
+  "TRVL-001": [
+    "book hotel room online",
+    "luxury hotel rewards program",
+    "hotel loyalty points",
+    "best hotel deals",
+    "earn free hotel nights",
+    "vacation planning help"
+  ],
+  "TRVL-002": [
+    "unique local experiences",
+    "things to do abroad",
+    "cooking class vacation",
+    "local guided tours",
+    "trip planning resources",
+    "destination travel tips",
+    "vacation planning help"
+  ],
+  "TRVL-003": [
+    "cheap flights comparison",
+    "find affordable airfare",
+    "flight price alerts",
+    "best time to fly",
+    "book flights online",
+    "vacation planning help"
+  ],
+  "TRVL-004": [
+    "travel insurance coverage",
+    "adventure travel protection",
+    "trip cancellation insurance",
+    "emergency medical abroad"
+  ],
+  "TRVL-005": [
+    "travel guidebook recommendations",
+    "trip planning resources",
+    "destination travel tips",
+    "vacation planning help"
+  ],
+  "ELEC-001": [
+    "best noise cancelling headphones",
+    "wireless headphones long battery",
+    "headphones for travel",
+    "premium audio experience",
+    "fathers day gift ideas",
+    "christmas gift tech lover"
+  ],
+  "ELEC-005": [
+    "premium audio experience",
+    "portable bluetooth speaker",
+    "waterproof outdoor speaker",
+    "speaker for beach party"
+  ],
+  "ELEC-002": [
+    "tablet for students",
+    "drawing tablet with pencil",
+    "portable work device",
+    "best tablet for reading",
+    "christmas gift tech lover",
+    "graduation gift ideas"
+  ],
+  "ELEC-004": [
+    "best tablet for reading",
+    "e-reader for book lovers",
+    "waterproof kindle reader",
+    "digital reading device",
+    "gift for book lover",
+    "graduation gift ideas"
+  ],
+  "ELEC-003": [
+    "best smartphone camera",
+    "flagship phone upgrade",
+    "samsung galaxy latest",
+    "phone with stylus pen",
+    "christmas gift tech lover"
+  ],
+  "OUTD-001": [
+    "waterproof hiking boots",
+    "best hiking shoes gore-tex",
+    "trail shoes for rain",
+    "durable hiking footwear",
+    "fathers day gift ideas",
+    "gift for outdoor enthusiast"
+  ],
+  "OUTD-002": [
+    "lightweight winter jacket",
+    "packable insulated jacket",
+    "cold weather outdoor gear",
+    "warm jacket for hiking"
+  ],
+  "FASH-005": [
+    "cold weather outdoor gear",
+    "winter thermal underwear",
+    "cold weather base layer",
+    "heat generating innerwear"
+  ],
+  "OUTD-003": [
+    "backpacking backpack large",
+    "comfortable hiking pack",
+    "multi-day trek gear",
+    "best backpack for camping",
+    "camping gear essentials",
+    "gift for outdoor enthusiast"
+  ],
+  "OUTD-004": [
+    "multi-day trek gear",
+    "two person camping tent",
+    "lightweight backpacking tent",
+    "camping gear essentials"
+  ],
+  "OUTD-005": [
+    "camping gear essentials",
+    "durable travel duffel bag",
+    "recycled material luggage",
+    "adventure travel bag",
+    "gift for outdoor enthusiast"
+  ],
+  "FOOD-001": [
+    "weekly meal kit delivery",
+    "easy dinner recipes home",
+    "healthy meal planning",
+    "cooking subscription service",
+    "mothers day gift ideas"
+  ],
+  "FOOD-002": [
+    "home espresso machine",
+    "best coffee maker home",
+    "barista quality coffee",
+    "morning coffee ritual",
+    "valentines day gift",
+    "housewarming gift ideas",
+    "gift for coffee lover"
+  ],
+  "FOOD-005": [
+    "barista quality coffee",
+    "morning coffee ritual",
+    "coffee subscription service",
+    "freshly roasted coffee beans",
+    "specialty coffee delivery",
+    "gift for coffee lover"
+  ],
+  "FOOD-003": [
+    "organic grocery delivery",
+    "fresh produce delivered",
+    "healthy grocery shopping"
+  ],
+  "FOOD-004": [
+    "daily vitamin supplement",
+    "greens powder nutrition",
+    "immune system boost",
+    "energy supplement natural",
+    "healthy smoothie recipes"
+  ],
+  "FASH-001": [
+    "trendy sneakers streetwear",
+    "comfortable casual shoes",
+    "iconic nike shoes",
+    "sneaker collection must have",
+    "birthday gift for runner"
+  ],
+  "FASH-004": [
+    "comfortable casual shoes",
+    "sustainable fashion brands",
+    "eco friendly shoes",
+    "machine washable sneakers",
+    "sustainable comfortable footwear"
+  ],
+  "FASH-002": [
+    "classic blue jeans",
+    "durable denim pants",
+    "sustainable fashion brands"
+  ],
+  "FASH-003": [
+    "polarized sunglasses uv protection",
+    "designer sunglasses classic",
+    "summer eyewear style",
+    "anniversary gift for wife"
+  ],
+  "SPRT-001": [
+    "home exercise bike",
+    "indoor cycling classes",
+    "fitness equipment home gym",
+    "peloton workout subscription",
+    "premium activewear brand"
+  ],
+  "SPRT-005": [
+    "fitness equipment home gym",
+    "home bodyweight workout",
+    "suspension training system",
+    "portable workout equipment"
+  ],
+  "SPRT-002": [
+    "gps running watch",
+    "fitness tracker advanced",
+    "marathon training watch",
+    "sports performance tracking",
+    "fathers day gift ideas",
+    "birthday gift for runner"
+  ],
+  "SPRT-003": [
+    "insulated water bottle",
+    "durable outdoor bottle",
+    "cold drink bottle gym",
+    "fathers day gift ideas",
+    "birthday gift for runner",
+    "gift for outdoor enthusiast"
+  ],
+  "SPRT-004": [
+    "yoga pants comfortable",
+    "workout leggings women",
+    "athletic wear stretchy",
+    "premium activewear brand"
+  ],
+  "BEAU-001": [
+    "hair styling tool",
+    "curling iron no damage",
+    "dyson hair dryer curler",
+    "professional hair styling",
+    "mothers day gift ideas",
+    "valentines day gift",
+    "anniversary gift for wife"
+  ],
+  "BEAU-002": [
+    "moisturizer dry skin",
+    "dermatologist recommended cream",
+    "sensitive skin moisturizer",
+    "daily face cream",
+    "luxury skincare routine"
+  ],
+  "BEAU-003": [
+    "sensitive skin moisturizer",
+    "best sunscreen face",
+    "spf fifty sunscreen",
+    "sun protection sensitive skin"
+  ],
+  "BEAU-005": [
+    "daily face cream",
+    "anti aging moisturizer",
+    "peptide face cream",
+    "luxury skincare routine",
+    "mothers day gift ideas",
+    "valentines day gift",
+    "anniversary gift for wife"
+  ],
+  "BEAU-004": [
+    "hair repair treatment",
+    "fix damaged hair",
+    "bond building hair care"
+  ],
+  "AUTO-001": [
+    "electric vehicle affordable",
+    "tesla model comparison",
+    "best electric car range",
+    "ev charging network"
+  ],
+  "AUTO-002": [
+    "all season car tires",
+    "winter rated tire",
+    "best tire wet traction"
+  ],
+  "AUTO-003": [
+    "buy used car online",
+    "car buying no dealership",
+    "reliable used cars"
+  ],
+  "AUTO-004": [
+    "cheap car insurance quotes",
+    "auto insurance savings",
+    "best car insurance rates"
+  ],
+  "AUTO-005": [
+    "premium gasoline benefits",
+    "fuel engine protection",
+    "gas station near me"
+  ],
+  "HOME-001": [
+    "cordless vacuum powerful",
+    "best vacuum for pet hair",
+    "smart cleaning appliance"
+  ],
+  "HOME-004": [
+    "best vacuum for pet hair",
+    "smart cleaning appliance",
+    "home automation devices",
+    "robot vacuum self emptying",
+    "automatic floor cleaning",
+    "hands free home cleaning"
+  ],
+  "HOME-002": [
+    "best mattress for back",
+    "foam mattress free trial",
+    "better sleep mattress",
+    "housewarming gift ideas"
+  ],
+  "HOME-003": [
+    "smart home lighting setup",
+    "color changing led bulbs",
+    "voice controlled lights",
+    "home automation devices",
+    "christmas gift tech lover",
+    "housewarming gift ideas"
+  ],
+  "HOME-005": [
+    "professional blender smoothie",
+    "high powered kitchen blender",
+    "healthy smoothie recipes",
+    "housewarming gift ideas"
+  ],
+  "FINC-001": [
+    "commission free stock trading",
+    "beginner investing app",
+    "buy crypto bitcoin",
+    "fractional share investing",
+    "passive income investing",
+    "graduation gift ideas"
+  ],
+  "FINC-002": [
+    "automated portfolio management",
+    "robo advisor investing",
+    "high yield savings account",
+    "passive income investing"
+  ],
+  "FINC-003": [
+    "compare credit cards",
+    "best personal loan rates",
+    "financial product comparison",
+    "free credit score check",
+    "money saving tips"
+  ],
+  "FINC-005": [
+    "best personal loan rates",
+    "personal loan low rate",
+    "debt consolidation loan",
+    "borrow money online fast"
+  ],
+  "FINC-004": [
+    "free credit score check",
+    "budget tracking app",
+    "personal finance management",
+    "expense tracking automatic",
+    "money saving tips"
+  ]
+}

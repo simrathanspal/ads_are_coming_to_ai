@@ -1,0 +1,9 @@
+# Core ML
+torch>=2.0
+transformers>=4.40
+
+# Experiment Tracking
+mlflow>=2.12
+
+# Config
+pyyaml>=6.0

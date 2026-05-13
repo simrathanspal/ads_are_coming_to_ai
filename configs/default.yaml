@@ -1,0 +1,17 @@
+# Default decoder configuration
+# Reference: RARE paper (arXiv:2504.01304), Section 3.4
+
+# Beam search parameters
+beam_width: 10          # RARE online uses 50; we use 10 (189 CIs, not millions)
+top_n: 5                # Number of CIs to return
+max_length: 7           # Max trie depth is 7 tokens
+
+# Decoding parameters
+temperature: 0.7        # RARE online uses 0.7
+truncation_threshold: 0.01   # Discard tokens with < 1% probability
+
+# Length normalization: score = log_prob_sum / (length ^ length_penalty)
+length_penalty: 1.0
+
+# Model
+model_name: "Qwen/Qwen2.5-0.5B-Instruct"

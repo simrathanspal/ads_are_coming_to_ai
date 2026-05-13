@@ -1,0 +1,250 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "description": "Manually curated Commercial Intents (CIs) mapped to products. CIs are short phrases (2-6 words) capturing WHY a user might want a product. Multiple products can share a CI (one-to-many mapping).",
+    "total_unique_cis": 172,
+    "avg_ci_length_words": 3.5,
+    "max_ci_length_words": 6
+  },
+  "commercial_intents": {
+    "book hotel room online": ["TRVL-001"],
+    "luxury hotel rewards program": ["TRVL-001"],
+    "hotel loyalty points": ["TRVL-001"],
+    "best hotel deals": ["TRVL-001"],
+    "earn free hotel nights": ["TRVL-001"],
+
+    "unique local experiences": ["TRVL-002"],
+    "things to do abroad": ["TRVL-002"],
+    "cooking class vacation": ["TRVL-002"],
+    "local guided tours": ["TRVL-002"],
+
+    "cheap flights comparison": ["TRVL-003"],
+    "find affordable airfare": ["TRVL-003"],
+    "flight price alerts": ["TRVL-003"],
+    "best time to fly": ["TRVL-003"],
+    "book flights online": ["TRVL-003"],
+
+    "travel insurance coverage": ["TRVL-004"],
+    "adventure travel protection": ["TRVL-004"],
+    "trip cancellation insurance": ["TRVL-004"],
+    "emergency medical abroad": ["TRVL-004"],
+
+    "travel guidebook recommendations": ["TRVL-005"],
+    "trip planning resources": ["TRVL-005", "TRVL-002"],
+    "destination travel tips": ["TRVL-005", "TRVL-002"],
+    "vacation planning help": ["TRVL-001", "TRVL-002", "TRVL-003", "TRVL-005"],
+
+    "best noise cancelling headphones": ["ELEC-001"],
+    "wireless headphones long battery": ["ELEC-001"],
+    "headphones for travel": ["ELEC-001"],
+    "premium audio experience": ["ELEC-001", "ELEC-005"],
+
+    "tablet for students": ["ELEC-002"],
+    "drawing tablet with pencil": ["ELEC-002"],
+    "portable work device": ["ELEC-002"],
+    "best tablet for reading": ["ELEC-002", "ELEC-004"],
+
+    "best smartphone camera": ["ELEC-003"],
+    "flagship phone upgrade": ["ELEC-003"],
+    "samsung galaxy latest": ["ELEC-003"],
+    "phone with stylus pen": ["ELEC-003"],
+
+    "e-reader for book lovers": ["ELEC-004"],
+    "waterproof kindle reader": ["ELEC-004"],
+    "digital reading device": ["ELEC-004"],
+    "gift for book lover": ["ELEC-004"],
+
+    "portable bluetooth speaker": ["ELEC-005"],
+    "waterproof outdoor speaker": ["ELEC-005"],
+    "speaker for beach party": ["ELEC-005"],
+
+    "waterproof hiking boots": ["OUTD-001"],
+    "best hiking shoes gore-tex": ["OUTD-001"],
+    "trail shoes for rain": ["OUTD-001"],
+    "durable hiking footwear": ["OUTD-001"],
+
+    "lightweight winter jacket": ["OUTD-002"],
+    "packable insulated jacket": ["OUTD-002"],
+    "cold weather outdoor gear": ["OUTD-002", "FASH-005"],
+    "warm jacket for hiking": ["OUTD-002"],
+
+    "backpacking backpack large": ["OUTD-003"],
+    "comfortable hiking pack": ["OUTD-003"],
+    "multi-day trek gear": ["OUTD-003", "OUTD-004"],
+    "best backpack for camping": ["OUTD-003"],
+
+    "two person camping tent": ["OUTD-004"],
+    "lightweight backpacking tent": ["OUTD-004"],
+    "camping gear essentials": ["OUTD-004", "OUTD-003", "OUTD-005"],
+
+    "durable travel duffel bag": ["OUTD-005"],
+    "recycled material luggage": ["OUTD-005"],
+    "adventure travel bag": ["OUTD-005"],
+
+    "weekly meal kit delivery": ["FOOD-001"],
+    "easy dinner recipes home": ["FOOD-001"],
+    "healthy meal planning": ["FOOD-001"],
+    "cooking subscription service": ["FOOD-001"],
+
+    "home espresso machine": ["FOOD-002"],
+    "best coffee maker home": ["FOOD-002"],
+    "barista quality coffee": ["FOOD-002", "FOOD-005"],
+    "morning coffee ritual": ["FOOD-002", "FOOD-005"],
+
+    "organic grocery delivery": ["FOOD-003"],
+    "fresh produce delivered": ["FOOD-003"],
+    "healthy grocery shopping": ["FOOD-003"],
+
+    "daily vitamin supplement": ["FOOD-004"],
+    "greens powder nutrition": ["FOOD-004"],
+    "immune system boost": ["FOOD-004"],
+    "energy supplement natural": ["FOOD-004"],
+
+    "coffee subscription service": ["FOOD-005"],
+    "freshly roasted coffee beans": ["FOOD-005"],
+    "specialty coffee delivery": ["FOOD-005"],
+
+    "trendy sneakers streetwear": ["FASH-001"],
+    "comfortable casual shoes": ["FASH-001", "FASH-004"],
+    "iconic nike shoes": ["FASH-001"],
+    "sneaker collection must have": ["FASH-001"],
+
+    "classic blue jeans": ["FASH-002"],
+    "durable denim pants": ["FASH-002"],
+    "sustainable fashion brands": ["FASH-002", "FASH-004"],
+
+    "polarized sunglasses uv protection": ["FASH-003"],
+    "designer sunglasses classic": ["FASH-003"],
+    "summer eyewear style": ["FASH-003"],
+
+    "eco friendly shoes": ["FASH-004"],
+    "machine washable sneakers": ["FASH-004"],
+    "sustainable comfortable footwear": ["FASH-004"],
+
+    "winter thermal underwear": ["FASH-005"],
+    "cold weather base layer": ["FASH-005"],
+    "heat generating innerwear": ["FASH-005"],
+
+    "home exercise bike": ["SPRT-001"],
+    "indoor cycling classes": ["SPRT-001"],
+    "fitness equipment home gym": ["SPRT-001", "SPRT-005"],
+    "peloton workout subscription": ["SPRT-001"],
+
+    "gps running watch": ["SPRT-002"],
+    "fitness tracker advanced": ["SPRT-002"],
+    "marathon training watch": ["SPRT-002"],
+    "sports performance tracking": ["SPRT-002"],
+
+    "insulated water bottle": ["SPRT-003"],
+    "durable outdoor bottle": ["SPRT-003"],
+    "cold drink bottle gym": ["SPRT-003"],
+
+    "yoga pants comfortable": ["SPRT-004"],
+    "workout leggings women": ["SPRT-004"],
+    "athletic wear stretchy": ["SPRT-004"],
+    "premium activewear brand": ["SPRT-004", "SPRT-001"],
+
+    "home bodyweight workout": ["SPRT-005"],
+    "suspension training system": ["SPRT-005"],
+    "portable workout equipment": ["SPRT-005"],
+
+    "hair styling tool": ["BEAU-001"],
+    "curling iron no damage": ["BEAU-001"],
+    "dyson hair dryer curler": ["BEAU-001"],
+    "professional hair styling": ["BEAU-001"],
+
+    "moisturizer dry skin": ["BEAU-002"],
+    "dermatologist recommended cream": ["BEAU-002"],
+    "sensitive skin moisturizer": ["BEAU-002", "BEAU-003"],
+    "daily face cream": ["BEAU-002", "BEAU-005"],
+
+    "best sunscreen face": ["BEAU-003"],
+    "spf fifty sunscreen": ["BEAU-003"],
+    "sun protection sensitive skin": ["BEAU-003"],
+
+    "hair repair treatment": ["BEAU-004"],
+    "fix damaged hair": ["BEAU-004"],
+    "bond building hair care": ["BEAU-004"],
+
+    "anti aging moisturizer": ["BEAU-005"],
+    "peptide face cream": ["BEAU-005"],
+    "luxury skincare routine": ["BEAU-005", "BEAU-002"],
+
+    "electric vehicle affordable": ["AUTO-001"],
+    "tesla model comparison": ["AUTO-001"],
+    "best electric car range": ["AUTO-001"],
+    "ev charging network": ["AUTO-001"],
+
+    "all season car tires": ["AUTO-002"],
+    "winter rated tire": ["AUTO-002"],
+    "best tire wet traction": ["AUTO-002"],
+
+    "buy used car online": ["AUTO-003"],
+    "car buying no dealership": ["AUTO-003"],
+    "reliable used cars": ["AUTO-003"],
+
+    "cheap car insurance quotes": ["AUTO-004"],
+    "auto insurance savings": ["AUTO-004"],
+    "best car insurance rates": ["AUTO-004"],
+
+    "premium gasoline benefits": ["AUTO-005"],
+    "fuel engine protection": ["AUTO-005"],
+    "gas station near me": ["AUTO-005"],
+
+    "cordless vacuum powerful": ["HOME-001"],
+    "best vacuum for pet hair": ["HOME-001", "HOME-004"],
+    "smart cleaning appliance": ["HOME-001", "HOME-004"],
+
+    "best mattress for back": ["HOME-002"],
+    "foam mattress free trial": ["HOME-002"],
+    "better sleep mattress": ["HOME-002"],
+
+    "smart home lighting setup": ["HOME-003"],
+    "color changing led bulbs": ["HOME-003"],
+    "voice controlled lights": ["HOME-003"],
+    "home automation devices": ["HOME-003", "HOME-004"],
+
+    "robot vacuum self emptying": ["HOME-004"],
+    "automatic floor cleaning": ["HOME-004"],
+    "hands free home cleaning": ["HOME-004"],
+
+    "professional blender smoothie": ["HOME-005"],
+    "high powered kitchen blender": ["HOME-005"],
+    "healthy smoothie recipes": ["HOME-005", "FOOD-004"],
+
+    "commission free stock trading": ["FINC-001"],
+    "beginner investing app": ["FINC-001"],
+    "buy crypto bitcoin": ["FINC-001"],
+    "fractional share investing": ["FINC-001"],
+
+    "automated portfolio management": ["FINC-002"],
+    "robo advisor investing": ["FINC-002"],
+    "high yield savings account": ["FINC-002"],
+    "passive income investing": ["FINC-002", "FINC-001"],
+
+    "compare credit cards": ["FINC-003"],
+    "best personal loan rates": ["FINC-003", "FINC-005"],
+    "financial product comparison": ["FINC-003"],
+    "free credit score check": ["FINC-003", "FINC-004"],
+
+    "budget tracking app": ["FINC-004"],
+    "personal finance management": ["FINC-004"],
+    "expense tracking automatic": ["FINC-004"],
+    "money saving tips": ["FINC-004", "FINC-003"],
+
+    "personal loan low rate": ["FINC-005"],
+    "debt consolidation loan": ["FINC-005"],
+    "borrow money online fast": ["FINC-005"],
+
+    "fathers day gift ideas": ["OUTD-001", "ELEC-001", "SPRT-002", "SPRT-003"],
+    "mothers day gift ideas": ["BEAU-001", "BEAU-005", "FOOD-001"],
+    "christmas gift tech lover": ["ELEC-001", "ELEC-002", "ELEC-003", "HOME-003"],
+    "birthday gift for runner": ["SPRT-002", "SPRT-003", "FASH-001"],
+    "valentines day gift": ["BEAU-001", "BEAU-005", "FOOD-002"],
+    "graduation gift ideas": ["ELEC-002", "ELEC-004", "FINC-001"],
+    "housewarming gift ideas": ["HOME-002", "HOME-003", "HOME-005", "FOOD-002"],
+    "gift for outdoor enthusiast": ["OUTD-001", "OUTD-003", "OUTD-005", "SPRT-003"],
+    "anniversary gift for wife": ["BEAU-001", "FASH-003", "BEAU-005"],
+    "gift for coffee lover": ["FOOD-002", "FOOD-005"]
+  }
+}

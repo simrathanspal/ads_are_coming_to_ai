@@ -1,0 +1,352 @@
+[
+  {
+    "product_id": "TRVL-001",
+    "name": "Marriott Bonvoy Membership",
+    "description": "Earn points at 8,000+ hotels worldwide. Free nights, room upgrades, and late checkout with elite status.",
+    "price_inr": null,
+    "category": "travel"
+  },
+  {
+    "product_id": "TRVL-002",
+    "name": "Airbnb Experiences",
+    "description": "Book unique activities hosted by locals \u2014 cooking classes, guided tours, and cultural experiences in 200+ cities.",
+    "price_inr": null,
+    "category": "travel"
+  },
+  {
+    "product_id": "TRVL-003",
+    "name": "Skyscanner Flight Search",
+    "description": "Compare cheap flights across hundreds of airlines. Price alerts and flexible date search.",
+    "price_inr": null,
+    "category": "travel"
+  },
+  {
+    "product_id": "TRVL-004",
+    "name": "World Nomads Travel Insurance",
+    "description": "Travel insurance for adventurous travelers. Covers 200+ activities including hiking, scuba diving, and skiing.",
+    "price_inr": 4199,
+    "category": "travel"
+  },
+  {
+    "product_id": "TRVL-005",
+    "name": "Lonely Planet Guidebooks",
+    "description": "Expert travel guides with insider tips, curated itineraries, maps, and honest reviews from local writers.",
+    "price_inr": 2099,
+    "category": "travel"
+  },
+  {
+    "product_id": "ELEC-001",
+    "name": "Sony WH-1000XM5",
+    "description": "Industry-leading noise cancellation. 30-hour battery, crystal-clear calling, and multipoint connection.",
+    "price_inr": 29490,
+    "category": "electronics"
+  },
+  {
+    "product_id": "ELEC-002",
+    "name": "Apple iPad Air M2",
+    "description": "11-inch Liquid Retina display powered by M2 chip. Apple Pencil Pro support and all-day battery.",
+    "price_inr": 49900,
+    "category": "electronics"
+  },
+  {
+    "product_id": "ELEC-003",
+    "name": "Samsung Galaxy S24 Ultra",
+    "description": "200MP camera with AI photo editing. Titanium frame, built-in S Pen, and Galaxy AI features.",
+    "price_inr": 109999,
+    "category": "electronics"
+  },
+  {
+    "product_id": "ELEC-004",
+    "name": "Kindle Paperwhite Signature",
+    "description": "6.8-inch glare-free display with warm light. 32GB, wireless charging, and waterproof design.",
+    "price_inr": 15999,
+    "category": "electronics"
+  },
+  {
+    "product_id": "ELEC-005",
+    "name": "Bose SoundLink Max",
+    "description": "Portable Bluetooth speaker with deep bass. 20-hour battery, IP67 waterproof, and rope handle.",
+    "price_inr": 33590,
+    "category": "electronics"
+  },
+  {
+    "product_id": "OUTD-001",
+    "name": "Merrell Moab 3 GORE-TEX",
+    "description": "Waterproof hikers with durable leather, GORE-TEX membrane, and Vibram traction for rainy trails.",
+    "price_inr": 12599,
+    "category": "outdoor_gear"
+  },
+  {
+    "product_id": "OUTD-002",
+    "name": "The North Face Thermoball Jacket",
+    "description": "Lightweight synthetic insulation that works even when wet. Packable, 700-fill warmth, DWR finish.",
+    "price_inr": 18499,
+    "category": "outdoor_gear"
+  },
+  {
+    "product_id": "OUTD-003",
+    "name": "Osprey Atmos AG 65 Backpack",
+    "description": "Anti-Gravity suspension for all-day trail comfort. 65L capacity with integrated rain cover.",
+    "price_inr": 26099,
+    "category": "outdoor_gear"
+  },
+  {
+    "product_id": "OUTD-004",
+    "name": "REI Co-op Half Dome 2 Plus Tent",
+    "description": "Spacious 2-person backpacking tent with two doors, easy setup, and 3-season performance.",
+    "price_inr": 19299,
+    "category": "outdoor_gear"
+  },
+  {
+    "product_id": "OUTD-005",
+    "name": "Patagonia Black Hole Duffel 55L",
+    "description": "Weather-resistant duffel from 100% recycled materials. Backpack straps and U-shaped lid.",
+    "price_inr": 14199,
+    "category": "outdoor_gear"
+  },
+  {
+    "product_id": "FOOD-001",
+    "name": "HelloFresh Meal Kit",
+    "description": "Pre-portioned meal kits delivered weekly. 40+ recipes with step-by-step instructions.",
+    "price_inr": 849,
+    "category": "food_beverage"
+  },
+  {
+    "product_id": "FOOD-002",
+    "name": "Nespresso Vertuo Next",
+    "description": "Barista-quality coffee and espresso at home. Centrifusion technology with 30+ capsule varieties.",
+    "price_inr": 14999,
+    "category": "food_beverage"
+  },
+  {
+    "product_id": "FOOD-003",
+    "name": "Whole Foods Organic Delivery",
+    "description": "Premium organic groceries delivered to your door. Locally sourced produce and sustainable seafood.",
+    "price_inr": null,
+    "category": "food_beverage"
+  },
+  {
+    "product_id": "FOOD-004",
+    "name": "Athletic Greens AG1",
+    "description": "Daily supplement with 75 vitamins and minerals. Supports gut health, immunity, and energy.",
+    "price_inr": 6649,
+    "category": "food_beverage"
+  },
+  {
+    "product_id": "FOOD-005",
+    "name": "Trade Coffee Subscription",
+    "description": "Personalized coffee subscription from 55+ roasters. Matched to your taste, delivered fresh.",
+    "price_inr": 1259,
+    "category": "food_beverage"
+  },
+  {
+    "product_id": "FASH-001",
+    "name": "Nike Air Max 90",
+    "description": "Iconic streetwear sneaker with visible Air cushioning, premium leather upper, and Waffle outsole.",
+    "price_inr": 10997,
+    "category": "fashion"
+  },
+  {
+    "product_id": "FASH-002",
+    "name": "Levi's 501 Original Fit Jeans",
+    "description": "The original blue jean since 1873. Button fly, straight leg, sits at waist.",
+    "price_inr": 5849,
+    "category": "fashion"
+  },
+  {
+    "product_id": "FASH-003",
+    "name": "Ray-Ban Wayfarer Sunglasses",
+    "description": "Timeless iconic sunglasses with polarized lenses and UV protection. 50+ color options.",
+    "price_inr": 13699,
+    "category": "fashion"
+  },
+  {
+    "product_id": "FASH-004",
+    "name": "Allbirds Wool Runners",
+    "description": "World's most comfortable shoes from merino wool. Machine washable and carbon-neutral.",
+    "price_inr": 8249,
+    "category": "fashion"
+  },
+  {
+    "product_id": "FASH-005",
+    "name": "Uniqlo Heattech Ultra Warm",
+    "description": "Heat-generating innerwear 2.25x warmer than regular Heattech. Moisture-wicking and ultra-thin.",
+    "price_inr": 1679,
+    "category": "fashion"
+  },
+  {
+    "product_id": "SPRT-001",
+    "name": "Peloton Bike+",
+    "description": "Indoor cycling with live and on-demand classes. 24-inch rotating HD screen and auto-resistance.",
+    "price_inr": 209999,
+    "category": "sports"
+  },
+  {
+    "product_id": "SPRT-002",
+    "name": "Garmin Forerunner 265",
+    "description": "Advanced GPS running watch with AMOLED display. Training readiness, race predictor, 13-day battery.",
+    "price_inr": 37890,
+    "category": "sports"
+  },
+  {
+    "product_id": "SPRT-003",
+    "name": "Yeti Rambler 36oz Bottle",
+    "description": "Double-wall vacuum insulated stainless steel. Keeps drinks cold 24+ hours. Dishwasher safe.",
+    "price_inr": 4199,
+    "category": "sports"
+  },
+  {
+    "product_id": "SPRT-004",
+    "name": "Lululemon Align Pant",
+    "description": "Buttery-soft Nulu fabric that feels weightless. 4-way stretch for yoga and low-impact training.",
+    "price_inr": 8249,
+    "category": "sports"
+  },
+  {
+    "product_id": "SPRT-005",
+    "name": "TRX Home2 Suspension Trainer",
+    "description": "Full-body workout system using bodyweight. 300+ exercises, anchors anywhere, includes app access.",
+    "price_inr": 16799,
+    "category": "sports"
+  },
+  {
+    "product_id": "BEAU-001",
+    "name": "Dyson Airwrap Multi-Styler",
+    "description": "Style, curl, and dry with no extreme heat damage. Coanda airflow with 6 attachments.",
+    "price_inr": 45900,
+    "category": "beauty"
+  },
+  {
+    "product_id": "BEAU-002",
+    "name": "CeraVe Moisturizing Cream",
+    "description": "Dermatologist-recommended with 3 essential ceramides. Fragrance-free for dry to very dry skin.",
+    "price_inr": 1599,
+    "category": "beauty"
+  },
+  {
+    "product_id": "BEAU-003",
+    "name": "La Roche-Posay Anthelios SPF 50",
+    "description": "Ultra-light sunscreen with broad spectrum UVA/UVB protection. Water-resistant, sensitive skin safe.",
+    "price_inr": 2999,
+    "category": "beauty"
+  },
+  {
+    "product_id": "BEAU-004",
+    "name": "Olaplex No. 3 Hair Perfector",
+    "description": "Bond-building treatment that repairs damaged hair. Reduces breakage and restores healthy shine.",
+    "price_inr": 2499,
+    "category": "beauty"
+  },
+  {
+    "product_id": "BEAU-005",
+    "name": "Drunk Elephant Protini Cream",
+    "description": "Protein moisturizer with peptides and amino acids. Improves firmness, tone, and texture.",
+    "price_inr": 5699,
+    "category": "beauty"
+  },
+  {
+    "product_id": "AUTO-001",
+    "name": "Tesla Model 3",
+    "description": "Electric sedan with 358-mile range. 0-60 in 3.1s, Autopilot, and Supercharger network access.",
+    "price_inr": 3299000,
+    "category": "automotive"
+  },
+  {
+    "product_id": "AUTO-002",
+    "name": "Michelin CrossClimate2 Tires",
+    "description": "All-season tires with winter certification. V-Ramp technology, 60,000-mile warranty.",
+    "price_inr": 15899,
+    "category": "automotive"
+  },
+  {
+    "product_id": "AUTO-003",
+    "name": "Carvana Online Car Buying",
+    "description": "Buy used cars 100% online with 360\u00b0 photos. 7-day return policy and free delivery.",
+    "price_inr": null,
+    "category": "automotive"
+  },
+  {
+    "product_id": "AUTO-004",
+    "name": "Geico Auto Insurance",
+    "description": "Save 15% or more on car insurance. Easy online quotes, 24/7 claims, and roadside assistance.",
+    "price_inr": null,
+    "category": "automotive"
+  },
+  {
+    "product_id": "AUTO-005",
+    "name": "Shell V-Power NiTRO+",
+    "description": "Premium fuel with triple-action protection. Cleans, protects, and removes intake valve deposits.",
+    "price_inr": null,
+    "category": "automotive"
+  },
+  {
+    "product_id": "HOME-001",
+    "name": "Dyson V15 Detect Vacuum",
+    "description": "Cordless vacuum with laser dust detection and piezo particle counter. 60-min runtime, HEPA filtration.",
+    "price_inr": 62900,
+    "category": "home"
+  },
+  {
+    "product_id": "HOME-002",
+    "name": "Casper Original Mattress",
+    "description": "Award-winning foam mattress with AirScape breathable top. Zoned support, 100-night trial.",
+    "price_inr": 91999,
+    "category": "home"
+  },
+  {
+    "product_id": "HOME-003",
+    "name": "Philips Hue Smart Lighting Kit",
+    "description": "16 million colors of smart LED lighting. Voice control with Alexa and Google. App automations.",
+    "price_inr": 10899,
+    "category": "home"
+  },
+  {
+    "product_id": "HOME-004",
+    "name": "iRobot Roomba j9+",
+    "description": "Self-emptying robot vacuum with PrecisionVision Navigation. Avoids obstacles, empties for 60 days.",
+    "price_inr": 67299,
+    "category": "home"
+  },
+  {
+    "product_id": "HOME-005",
+    "name": "Vitamix A3500 Blender",
+    "description": "Professional-grade blending with 5 programs. Touchscreen controls and self-detecting containers.",
+    "price_inr": 54599,
+    "category": "home"
+  },
+  {
+    "product_id": "FINC-001",
+    "name": "Robinhood Investing",
+    "description": "Commission-free stock, ETF, options, and crypto trading. Fractional shares starting at $1.",
+    "price_inr": null,
+    "category": "finance"
+  },
+  {
+    "product_id": "FINC-002",
+    "name": "Wealthfront Automated Investing",
+    "description": "Automated portfolio management with tax-loss harvesting. 4.00% APY cash account, 0.25% annual fee.",
+    "price_inr": null,
+    "category": "finance"
+  },
+  {
+    "product_id": "FINC-003",
+    "name": "NerdWallet Financial Comparison",
+    "description": "Compare credit cards, loans, insurance, and bank accounts. Free credit score monitoring.",
+    "price_inr": null,
+    "category": "finance"
+  },
+  {
+    "product_id": "FINC-004",
+    "name": "Mint Budget Tracker",
+    "description": "Free budgeting app that tracks spending, bills, and credit score. Automatic categorization.",
+    "price_inr": null,
+    "category": "finance"
+  },
+  {
+    "product_id": "FINC-005",
+    "name": "SoFi Personal Loans",
+    "description": "Personal loans from $5K-$100K with no fees. Fixed rates and unemployment protection.",
+    "price_inr": null,
+    "category": "finance"
+  }
+]

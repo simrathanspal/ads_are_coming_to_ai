@@ -1,0 +1,13 @@
+# Aggressive decoder configuration
+# Higher beam width + stricter truncation = better CIs but slower
+
+beam_width: 20
+top_n: 5
+max_length: 7
+
+temperature: 0.5          # Sharper distribution (more confident picks)
+truncation_threshold: 0.05 # Kill anything under 5% probability
+
+length_penalty: 1.0
+
+model_name: "Qwen/Qwen2.5-0.5B-Instruct"

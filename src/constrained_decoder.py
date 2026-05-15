@@ -19,6 +19,7 @@ Reference: RARE paper (arXiv:2504.01304), Section 3.4
 """
 
 import json
+import logging
 import time
 import torch
 import yaml

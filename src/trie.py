@@ -17,6 +17,7 @@ Reference: RARE paper, Section 3.4 "Constrained Beam Search"
 """
 
 import json
+import logging
 from pathlib import Path
 from typing import Optional
 from dataclasses import dataclass, field

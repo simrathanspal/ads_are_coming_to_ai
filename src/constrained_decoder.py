@@ -18,7 +18,9 @@ Reference: RARE paper (arXiv:2504.01304), Section 3.4
    predefined CIs set."
 """
 
+import datetime
 import json
+import logging
 import time
 import torch
 import yaml
@@ -27,6 +29,9 @@ from pathlib import Path
 from typing import Optional
 
 from src.trie import TokenTrie, TrieNode
+
+logger = logging.getLogger(__name__)
+logger.info("Module compiled: %s at %s", __file__, datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
 
 
 # ---------------------------------------------------------------------------

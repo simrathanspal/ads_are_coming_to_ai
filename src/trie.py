@@ -16,10 +16,15 @@ Reference: RARE paper, Section 3.4 "Constrained Beam Search"
    predefined CIs set."
 """
 
+import datetime
 import json
+import logging
 from pathlib import Path
 from typing import Optional
 from dataclasses import dataclass, field
+
+logger = logging.getLogger(__name__)
+logger.info("Module compiled: %s at %s", __file__, datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
 
 
 @dataclass

@@ -8,11 +8,15 @@ Builds two core indexes from the curated data:
 Also generates summary statistics useful for validation.
 """
 
+import datetime
 import json
+import logging
 import os
 from collections import defaultdict
 from pathlib import Path
 
+logger = logging.getLogger(__name__)
+logger.info("Module compiled: %s at %s", __file__, datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
 
 DATA_DIR = Path(__file__).parent.parent / "data"
 

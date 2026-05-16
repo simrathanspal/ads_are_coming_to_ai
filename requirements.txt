@@ -7,3 +7,6 @@ mlflow>=2.12
 
 # Config
 pyyaml>=6.0
+
+# Streamlit UI
+streamlit>=1.32

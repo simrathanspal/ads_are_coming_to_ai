@@ -2,6 +2,18 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## GitHub Issue Workflow
+
+When working on a GitHub issue, always follow these steps in order:
+1. Read the issue and understand the task
+2. Make the required code changes
+3. Commit the changes with a descriptive message
+4. **Create a pull request** by running:
+   ```bash
+   gh pr create --base main --title "<title>" --body "<detailed description following the PR Guidelines section below>"
+   ```
+   Do NOT just push the branch and stop — always open the PR as the final step.
+
 ## What This Project Does
 
 This is a capstone implementation of the **RARE framework** (arXiv:2504.01304) — a system that injects ads into AI responses by detecting *Commercial Intents* (CIs) in user queries via constrained beam search decoding.

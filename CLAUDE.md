@@ -113,7 +113,7 @@ One short paragraph: what was broken, missing, or suboptimal before this change,
 If the PR touches a non-trivial mechanism, include a short explanation of how that mechanism works. Use a minimal, generic code snippet to illustrate the concept — do not copy snippets directly from the codebase, as those will go stale. The snippet should be the simplest possible illustration of the idea, not a reproduction of the actual implementation.
 
 **4. Changes made**
-A bulleted list of every file changed with a one-line description of what changed and why. Include short before/after code snippets for non-trivial logic changes.
+A bulleted list of every file changed with a one-line description of what changed and why. For every non-trivial change, include a code snippet showing the key addition or modification — pulled directly from the actual diff. Use before/after format when replacing existing logic. Snippets should be short (5–15 lines) and highlight the meaningful part of the change, not boilerplate. Every file in the diff must have at least one snippet if it contains logic changes.
 
 **5. How to test / verify**
 Exact commands the reviewer can run to verify the change works correctly. Reference the relevant validation scripts:
